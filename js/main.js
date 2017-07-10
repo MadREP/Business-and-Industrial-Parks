@@ -232,7 +232,7 @@ function pointToLayer(feature, latlng, attributes, layer){
   // panel content string starting with country
   var parkTitle = "<h2><b>" + feature.properties.Park_Name + "</b></h2></p>";
 
-	var panelContent = "<h4><b>Community</b>: " + feature.properties.Community_Name + "</h4>";
+	var panelContent = "<p><b>Community</b>: " + feature.properties.Community_Name + "</p>";
 			panelContent += "<h4><b>County:</b> " + feature.properties.County + "</h4>"
 			panelContent += "<p><b>Total Acreage:</b> " + feature.properties.Total_Acreage + "</p>";
 			panelContent += "<p><b>Available Acreage:</b> " + feature.properties.Available_Acreage + "</p>";
