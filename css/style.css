@@ -18,14 +18,15 @@ body {
   position: fixed;
   display: inline-block;
   top: 20%;
-  width: 280px;
-  height: 530px;
-  right: 1%;
+  width: 180px;
+  height: 300px;
+  right: 0px;
   bottom: 5%;
   padding-right: 10px;
   border: solid;
   border-width: 2px;
   border-color: black;
+  border-right: none;
   background-image: url("gray_jean.png");
   z-index: 2;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -33,8 +34,8 @@ body {
 
 #website {
   position: absolute;
-  left: 75px;
-  top: 89px;
+  left: 25px;
+  top: 115px;
   width: 140px;
   padding-right: 5px;
   height: 40px;
@@ -427,7 +428,7 @@ body {
   position: absolute;
   text-align: left;
   left: 5%;
-  top: 130px;
+  top: 150px;
   font-size: 16px;
   line-height: 18px;
   padding-right: 5px;
