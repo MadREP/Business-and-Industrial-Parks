@@ -268,14 +268,14 @@ body {
 #refresh {
     position: absolute;
     cursor: pointer;
-    left: 11px;
-    top: 220px;
+    left: 9px;
+    top: 200px;
     border: solid;
     border-width: 0.1px;
     border-color: gray;
     border-radius: 5px;
-    height: 30px;
-    width: 31px;
+    height: 28.5px;
+    width: 28.5px;
     z-index: 100;
     box-shadow: 0px 0px 6px #888888;
     background-color: white;
