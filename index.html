@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+            <title>Madison Region Industrial and Business Parks</title>
+
+        <!--put your external stylesheet links here-->
+        <link rel="stylesheet" href="lib/leaflet.css">
+        <link rel="stylesheet" href="search-folder/src/leaflet-search.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet.geosearch/0.1/css/l.geosearch.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="lib/Leaflet.NavBar/src/Leaflet.NavBar.css">
+		    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://unpkg.com/esri-leaflet-geocoder@2.2.4/dist/esri-leaflet-geocoder.css">
+        <!--[if IE<9]>
+            <link rel="stylesheet" href="css/style.ie.css">
+        <![endif]-->
+    </head>
+
+    <body>
+      <div id="mapid"></div>
+      <div id="search">
+        <div id="search-1"></div>
+      </div>
+      <div id="right-panel" style="overflow:auto;">
+        <div id="website"></div>
+          <div id="park-title"></div>
+          <div id="sectional" style="overflow:auto;"></div>
+          </div>
+      </div>
+      <div id="filter" class="dropdowns">
+
+        <div id="dropdown-1" class="dropdowns">Filter by:
+              <a href="#" class="dropdown-element" class="county-dropdown" id="county">County</a>
+              <a href="#" class="dropdown-element" id="rail">Rail Access</a>
+              <a href="#" class="dropdown-element" id="tif">TIF District</a>
+              <a href="#" class="dropdown-element" id="min-lot-size">Min. Lot Size</a>
+        </div>
+
+        <div id="rail-access">Rail Access</div>
+        <div id="tif-district">TIF District</div>
+        <div id="cert">Certified</div>
+        <div id="gold">Gold Shovel</div>
+        <div id="shovel">Shovel Ready</div>
+
+        <div id="dropdown-counties" class="county-dropdown">County
+              <a href="#" class="dropdown-element" id="Columbia">Columbia</a>
+              <a href="#" class="dropdown-element" id="Dane">Dane</a>
+              <a href="#" class="dropdown-element" id="Dodge">Dodge</a>
+              <a href="#" class="dropdown-element" id="Iowa">Iowa</a>
+              <a href="#" class="dropdown-element" id="Green">Green</a>
+              <a href="#" class="dropdown-element" id="Jefferson">Jefferson</a>
+              <a href="#" class="dropdown-element" id="Rock">Rock</a>
+              <a href="#" class="dropdown-element" id="Sauk">Sauk</a>
+        </div>
+
+        <div id="dropdown-sizes" class="sizes-dropdown">Min. Lot Size
+              <a href="#" class="dropdown-element-2" id="break-1">Min. Lot size 0.5 acres or less</a>
+              <a href="#" class="dropdown-element-2" id="break-2">Min. Lot size from 0.5 to 1 acre</a>
+              <a href="#" class="dropdown-element-2" id="break-3">Min. Lot size from 1 to 2 acres</a>
+              <a href="#" class="dropdown-element-2" id="break-4">Min. Lot sizes from 2 to 5 acres</a>
+              <a href="#" class="dropdown-element-2" id="break-5">Min. lot size above 5 acres</a>
+        </div>
+
+      </div>
+      <button id="refresh"><i class="fa fa-refresh" aria-hidden="true"></i></button>
+      <div id="legend">
+        <div id="section-1">Certified
+          <div id="certified-rect"></div>
+        </div>
+        <div id="section-2">Gold Shovel
+          <div id="gold-shovel-rect"></div>
+        </div>
+        <div id="section-3">Shovel Ready
+          <div id="regular-rect"></div>
+        </div>
+      </div>
+
+        <script type="text/javascript" src="lib/leaflet-src.js"></script>
+        <script type="text/javascript" src="js/ajax.js"></script>
+        <script type="text/javascript" src="lib/simple-statistics.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/leaflet.geosearch/0.1/js/l.control.geosearch.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/leaflet.geosearch/0.1/js/l.geosearch.provider.openstreetmap.js"></script>
+        <script type="text/javascript" src="lib/d3/d3.js"></script>
+        <script type="text/javascript" src="lib/topojson/topojson.js"></script>
+        <script type="text/javascript" src="search-folder/src/leaflet-search.js"></script>
+        <!-- Load Esri Leaflet from CDN -->
+        <script src="https://unpkg.com/esri-leaflet@2.0.8"></script>
+        <!-- <script type="text/javascript" src="lib/Leaflet.NavBar/src/Leaflet.NavBar.js"></script> -->
+        <script src="https://code.jquery.com/jquery-latest.min.js"
+            type="text/javascript"></script>
+        <script src="https://unpkg.com/esri-leaflet-geocoder@2.2.4"></script>
+        <script type="text/javascript" src="https://unpkg.com/esri-leaflet@2.0.7"></script>
+        <script type="text/javascript" src="lib/Leaflet.NavBar/src/Leaflet.NavBar.js"></script>
+        <!-- <script type="text/javascript" src="data/Business_parks_2017"></script> -->
+        <script type="text/javascript" src="js/main.js"></script>
+
+
+    </body>
+</html>

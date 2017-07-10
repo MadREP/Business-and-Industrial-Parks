@@ -1,0 +1,3231 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Arlington",
+        "County": "Columbia",
+        "Park_Name": "Arlington Prairie Industrial Park",
+        "Website_url": "http://www.mr-bk.com",
+        "Total_Acreage": 180,
+        "Available_Acreage": 144,
+        "Purchase_Price": "$0.69 - $1.95 per SF or $30,000 - $85,000 per Acre",
+        "Ownership": "Private- MR-BK LLC",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #1",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "I-1 I-2 B-2",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 70,
+        "Contact": "Brett Kirner",
+        "Phone": "608-635-3925",
+        "Email": "brett.kirner@MR-BK.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.372572,
+          43.335591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Cambria",
+        "County": "Columbia",
+        "Park_Name": "Cambria Industrial Park",
+        "Website_url": "http://www.cambriawisconsin.com",
+        "Total_Acreage": 25,
+        "Available_Acreage": 4,
+        "Purchase_Price": "Negotiable (between $1,500 and $7,500 per acres)",
+        "Ownership": "Municipal",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "Light Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 4,
+        "Contact": "Lois Frank",
+        "Phone": "920-348-5443",
+        "Email": "cambria@centurytel.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.103949,
+          43.549943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Portage",
+        "County": "Columbia",
+        "Park_Name": "Portage Industrial Park",
+        "Website_url": "http://www.portagewi.gov/business-development/",
+        "Total_Acreage": 51,
+        "Available_Acreage": 50,
+        "Purchase_Price": "$0.46 per SF or $20,000 per Acre",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 0.46,
+        "min_lot_size": "20,000 SF",
+        "Zoning": "Interchange Industrial (M3)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "29 Acres",
+        "Contact": "Steve Sobiek",
+        "Phone": "608-617-7121",
+        "Email": "steven.sobiek@portagewi.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.50613,
+          43.559103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Belleville",
+        "County": "Dane",
+        "Park_Name": "Bell West Business Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 75,
+        "Available_Acreage": 55,
+        "Purchase_Price": "From $2.50 per SF",
+        "Ownership": "Thea LLC",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1.5,
+        "min_lot_size": 1.5,
+        "Zoning": "BH BP RM",
+        "Certified_Site": "No",
+        "Certified_By": "Village of Belleville",
+        "max_contiguous_acreage": 12,
+        "Contact": "Rick Francois",
+        "Phone": "608-424-0303",
+        "Email": "francoisrick@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.558916,
+          42.862278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Blue Mounds",
+        "County": "Dane",
+        "Park_Name": "Blue Mounds Commercial Park",
+        "Website_url": "http://allstar123.homestead.com/Blue_Com.html",
+        "Total_Acreage": 13,
+        "Available_Acreage": 10,
+        "Purchase_Price": "Negotiable per plot",
+        "Ownership": "Blue Mountain Development Inc.",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #1",
+        "smallest_lot": 1.3,
+        "min_lot_size": 1.3,
+        "Zoning": "C3 Commercial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "63000 SF",
+        "Contact": "All Star Properties",
+        "Phone": "608-663-1445",
+        "Email": "info@allstargroup.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.828359,
+          43.008435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Brooklyn",
+        "County": "Dane",
+        "Park_Name": "Brooklyn Business Complex",
+        "Website_url": "http://www.brooklynwi.gov",
+        "Total_Acreage": "Phase I: 10, Phase II: 40, Phase III: 50",
+        "Available_Acreage": 1.16,
+        "Purchase_Price": "$25,000 per acre",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Business",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 100,
+        "Contact": "David Haug Lighthouse CRE",
+        "Phone": "608-234-4848",
+        "Email": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.362434,
+          42.851939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Burke",
+        "County": "Dane",
+        "Park_Name": "East Metro Business Park",
+        "Website_url": "http://buildtosuit.com/properties/dane-county-portfolio/east-metro-business-park/",
+        "Total_Acreage": 49,
+        "Available_Acreage": 11.83,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Welton Properties  LLC",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 2.18,
+        "min_lot_size": 2.18,
+        "Zoning": "Industrial with potential for retail",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 5.86,
+        "Contact": "Welton Enterprises Inc.",
+        "Phone": "608-833-5590",
+        "Email": "paulm@buildtosuit.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.325993,
+          43.184882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Cottage Grove",
+        "County": "Dane",
+        "Park_Name": "Cottage Grove Business Park",
+        "Website_url": "http://www.homburginc.com",
+        "Total_Acreage": 55,
+        "Available_Acreage": 4.5,
+        "Purchase_Price": "$3 - $3.50 per SF or $130,680 - $152,460 per Acre",
+        "Ownership": "Homburg Equipment Inc.",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.75,
+        "min_lot_size": 0.75,
+        "Zoning": "Large and Small Inudstrial & Office",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 2,
+        "Contact": "Andrew Homburg",
+        "Phone": "608-244-9266",
+        "Email": "ahomburg@ahomburginc.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.205111,
+          43.077256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Cottage Grove",
+        "County": "Dane",
+        "Park_Name": "Cottage Grove Commerce Park",
+        "Website_url": "http://www.cottagegrovecommercepark.com/home",
+        "Total_Acreage": 128,
+        "Available_Acreage": 19,
+        "Purchase_Price": "$2.75 - $6 per SF or $119,790 - $261,360 per Acre",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1.4,
+        "min_lot_size": 1.4,
+        "Zoning": "Planned Business (PB) & Planned Industrial (PI)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 8.5,
+        "Contact": "Tom Philiips",
+        "Phone": "608-243-9070",
+        "Email": "tomp@ruedebusch.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.194908,
+          43.104976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "DeForest",
+        "County": "Dane",
+        "Park_Name": "Union Conservancy Park",
+        "Website_url": "http://www.loopnet.com/xNet/LoopLink/Profile/Profile.aspx?LID=18865600&STID=firstweber",
+        "Total_Acreage": 61.5,
+        "Available_Acreage": 32.02,
+        "Purchase_Price": "$4.25 - $8.00 per SF or $533,175 - $2,644,960 per site",
+        "Ownership": "Wisconsin Laborer's Apprenticeship Assoc. represents the \"No TIF Area\" but Park Towne represents the TIF #5 area",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 1.53,
+        "min_lot_size": 1.53,
+        "Zoning": "Commercial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 32,
+        "Contact": "Robert Carpenter",
+        "Phone": "608-829-7153",
+        "Email": "carpenterr@firstweber.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.353158,
+          43.193299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "DeForest",
+        "County": "Dane",
+        "Park_Name": "Innovation Springs at Conservancy Place",
+        "Website_url": "http://www.conservancyplace.com",
+        "Total_Acreage": 173,
+        "Available_Acreage": 135,
+        "Purchase_Price": "$3.95 - $4.95 per SF or $322,800 - $534,390 per Acre",
+        "Ownership": "Privately represented by The Park Towne Group",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #5",
+        "smallest_lot": 1.5,
+        "min_lot_size": 1.5,
+        "Zoning": "Commercial Office Retail Light Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 42,
+        "Contact": "Mike Ring",
+        "Phone": "608-833-9044",
+        "Email": "miker@parktowne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.360883,
+          43.224453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "DeForest",
+        "County": "Dane",
+        "Park_Name": "Bear Tree Farms",
+        "Website_url": "http://growdeforestwindsor.com/index.asp?SEC=B5083D17-7C1A-4699-AD8E-017EDF77E31B&Type=B_BASIC",
+        "Total_Acreage": 357,
+        "Available_Acreage": 226,
+        "Purchase_Price": "$2 - $7 per SF negotiable",
+        "Ownership": "Privately represented by Dwight Ziegler & Steve Pederson",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #7",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Commercial Office Retail Light Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 140,
+        "Contact": "Blake George",
+        "Phone": "608-327-4000 x5",
+        "Email": "bgeorge@lee-associates.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.317539,
+          43.203592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "DeForest",
+        "County": "Dane",
+        "Park_Name": "North Towne Corporate Park (Livesey)",
+        "Website_url": "http://www.liveseycompany.com ",
+        "Total_Acreage": 103,
+        "Available_Acreage": 60,
+        "Purchase_Price": "$3 - $12 per SF",
+        "Ownership": "Privately represented by  The Livesey Company",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #3",
+        "smallest_lot": 1.32,
+        "min_lot_size": 1.32,
+        "Zoning": "Commercial Office Retail Light Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 40,
+        "Contact": "John K. Livesey",
+        "Phone": "608-833-2929",
+        "Email": "jklivesey@liveseyco.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.327946,
+          43.197476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "DeForest",
+        "County": "Dane",
+        "Park_Name": "North Towne Corporate Park (Capwin)",
+        "Website_url": "http://growdeforestwindsor.com/index.asp?SEC=B5083D17-7C1A-4699-AD8E-017EDF77E31B&Type=B_BASIC",
+        "Total_Acreage": 115,
+        "Available_Acreage": 48,
+        "Purchase_Price": "$2.50 - $3.25 SF",
+        "Ownership": "Privately represented by Capwin ",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 2.57,
+        "min_lot_size": 2.57,
+        "Zoning": "Mix of M-2 and B-2",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 41.66,
+        "Contact": "Blake George",
+        "Phone": "608-327-4000 x5",
+        "Email": "bgeorge@lee-associates.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.328396,
+          43.20367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "DeForest",
+        "County": "Dane",
+        "Park_Name": "DeForest Northern Business Park (phase II)",
+        "Website_url": "http://growdeforestwindsor.com/index.asp?SEC=B5083D17-7C1A-4699-AD8E-017EDF77E31B&Type=B_BASIC",
+        "Total_Acreage": 190,
+        "Available_Acreage": 46,
+        "Purchase_Price": "$1.75 per SF negotiable",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #6",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "None",
+        "Zoning": "Industrial",
+        "Certified_Site": "Yes",
+        "Certified_By": "State of WI (WEDC/Deloitte)",
+        "max_contiguous_acreage": 20.24,
+        "Contact": "Sam Blahnik",
+        "Phone": "608-846-6751",
+        "Email": "blahniks@vi.deforest.wi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.328117,
+          43.261999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Fitchburg",
+        "County": "Dane",
+        "Park_Name": "Fitchburg Technology Campus (Phase 1)",
+        "Website_url": "http://www.fitchburgtech.com",
+        "Total_Acreage": 75,
+        "Available_Acreage": 10,
+        "Purchase_Price": "$7.00 - $10.00 per SF",
+        "Ownership": "Avante Properties",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "PUD Commercial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 7,
+        "Contact": "Chris Armstrong",
+        "Phone": "608-294-4086",
+        "Email": "chris@avanteproperties.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.422767,
+          42.995425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Fitchburg",
+        "County": "Dane",
+        "Park_Name": "Fitchburg Commerce Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 78,
+        "Available_Acreage": 14.86,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Private",
+        "TIF_area": "No",
+        "TIF_District": "None currently",
+        "smallest_lot": 1.477,
+        "min_lot_size": 1.477,
+        "Zoning": "I-G",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "Unknown",
+        "Contact": "Joyce Frey",
+        "Phone": "608-270-4246",
+        "Email": "joyce.frey@fitchburgwi.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.466916,
+          43.011886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Fitchburg",
+        "County": "Dane",
+        "Park_Name": "Uptown Fitchburg",
+        "Website_url": "http://avanteproperties.com/land-property/uptown-fitchburg-land/",
+        "Total_Acreage": 210,
+        "Available_Acreage": 92,
+        "Purchase_Price": "$8 - $12 per SF",
+        "Ownership": "Avante Properties",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 1,
+        "min_lot_size": "1 - 30 acres",
+        "Zoning": "Smartcode Special Business District",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 30,
+        "Contact": "Chris Armstrong",
+        "Phone": "608-294-4086",
+        "Email": "chris@avanteproperties.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.389787,
+          43.007588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Fitchburg",
+        "County": "Dane",
+        "Park_Name": "RDC Techlands",
+        "Website_url": "http://inwisconsin.com/select-wisconsin/available-sites/certified-in-wisconsin/fitchburg-wisconsin/",
+        "Total_Acreage": 57,
+        "Available_Acreage": 9.5,
+        "Purchase_Price": "$6.50 per SF",
+        "Ownership": "Private",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 1.5,
+        "min_lot_size": "1.5 acres",
+        "Zoning": "Specialized Industrial(IS)",
+        "Certified_Site": "Yes",
+        "Certified_By": "State of WI",
+        "max_contiguous_acreage": 56.79,
+        "Contact": "Kyle Adams",
+        "Phone": "608-243-9070",
+        "Email": "kylea@ruedebusch.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.417285,
+          42.996281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Fitchburg",
+        "County": "Dane",
+        "Park_Name": "Brown Business Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 9.5,
+        "Available_Acreage": 7.5,
+        "Purchase_Price": "$4.65 per SF Improved. If entire plat acquired reduction possible",
+        "Ownership": "Private",
+        "TIF_area": "No",
+        "TIF_District": "None Currently",
+        "smallest_lot": 0.94,
+        "min_lot_size": "41128 SF",
+        "Zoning": "Business Highway",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 7,
+        "Contact": "Rob Helm",
+        "Phone": "608-827-6867",
+        "Email": "rob@helmcommercial.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.391729,
+          43.031261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Fitchburg",
+        "County": "Dane",
+        "Park_Name": "North Stoner Prairie - Dunn",
+        "Website_url": "No Website",
+        "Total_Acreage": 22,
+        "Available_Acreage": 22,
+        "Purchase_Price": "$1.98 per SF unimproved",
+        "Ownership": "Private",
+        "TIF_area": "No",
+        "TIF_District": "Adjacent",
+        "smallest_lot": 2,
+        "min_lot_size": "2-22 Acres",
+        "Zoning": "Industrial/Commercial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 22,
+        "Contact": "Dave Bruce",
+        "Phone": "608-225-7669",
+        "Email": "dave@bruce-realestate.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.464889,
+          43.003289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Fitchburg",
+        "County": "Dane",
+        "Park_Name": "Terravessa",
+        "Website_url": "No Website",
+        "Total_Acreage": "Varies",
+        "Available_Acreage": "Varies",
+        "Purchase_Price": "Varies",
+        "Ownership": "Fitchburg Lands LLC",
+        "TIF_area": "No",
+        "TIF_District": "None Currently",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "Varies",
+        "Zoning": "Smartcode Special Business District",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 148,
+        "Contact": "Phil Sveum",
+        "Phone": "N/A",
+        "Email": "psveum@cbsuccess.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.374294,
+          43.011919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "University Research Park",
+        "Website_url": "http://www.universityresearchpark.org",
+        "Total_Acreage": 255,
+        "Available_Acreage": "5+ infill opportunities",
+        "Purchase_Price": "$7 - $9 per SF or $304,920 - $392,040 per Acre",
+        "Ownership": "University Research Park Inc.",
+        "TIF_area": "Yes",
+        "TIF_District": "TID #46",
+        "smallest_lot": 5,
+        "min_lot_size": 5,
+        "Zoning": "SE",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "5+ infill opportunities",
+        "Contact": "Paul Muench",
+        "Phone": "608-441-8000",
+        "Email": "pdmuench@wisc.edu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.531,
+          43.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "University Research Park 2",
+        "Website_url": "http://www.universityresearchpark.org",
+        "Total_Acreage": 200,
+        "Available_Acreage": 74,
+        "Purchase_Price": "$9 per SF to $392,040 per Acre",
+        "Ownership": "University Research Park Inc.",
+        "TIF_area": "Yes",
+        "TIF_District": "Qualifies",
+        "smallest_lot": 3,
+        "min_lot_size": 3,
+        "Zoning": "EC",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "50+",
+        "Contact": "Paul Muench",
+        "Phone": "608-441-8000",
+        "Email": "pdmuench@wisc.edu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.477,
+          43.059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "The Center for Industry and Commerce",
+        "Website_url": "https://www.cityofmadison.com/dpced/economicdevelopment/center-for-industry-commerce-cic-/512/",
+        "Total_Acreage": 90,
+        "Available_Acreage": 49.7,
+        "Purchase_Price": "$2.50 $3.25 $5.00 per SF depending on location",
+        "Ownership": "City of Madison",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.6,
+        "min_lot_size": 0.6,
+        "Zoning": "Industrial Limited IL",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 22.34,
+        "Contact": "Tom Otto",
+        "Phone": "608-243-0178",
+        "Email": "totto@cityofmadison.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.322045,
+          43.160767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "The American Center",
+        "Website_url": "http://www.amcenter.com",
+        "Total_Acreage": 447,
+        "Available_Acreage": 115,
+        "Purchase_Price": "$5.95/SF - $9.00/SF. ",
+        "Ownership": "American Family Mutual Insurance Company",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 1.16,
+        "min_lot_size": "Retail: 1.16 Acres Office: 3 Acres",
+        "Zoning": "Commercial Center (CC) Suburban Employment Center (SEC)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 53,
+        "Contact": "Chuck Redjinski",
+        "Phone": "608-663-6006",
+        "Email": "ckr@mlgcommercial.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.292927,
+          43.144545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "Silicon Prairie Business Park",
+        "Website_url": "http://buildtosuit.com/properties/dane-county-portfolio/silicon-prairie/",
+        "Total_Acreage": 134,
+        "Available_Acreage": "33.5 SE Zoned for office/employment; 39 zone IL for light industrial/flex",
+        "Purchase_Price": "$5 - $10 per SF",
+        "Ownership": "NEW WEI LLC",
+        "TIF_area": "No",
+        "TIF_District": "In Progress",
+        "smallest_lot": 1.74,
+        "min_lot_size": 1.74,
+        "Zoning": "SE & IL City of Madison",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 24,
+        "Contact": "Welton Enterprises Inc.",
+        "Phone": "608-833-5590",
+        "Email": "paulm@buildtosuit.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.556899,
+          43.058129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "Park Towne",
+        "Website_url": "http://www.parktowne.com",
+        "Total_Acreage": 177,
+        "Available_Acreage": "4 lots 144000 SF; Currently being held only for built-to-suit project",
+        "Purchase_Price": "$15.00 per SF",
+        "Ownership": "Park Towne Dev. Corp",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "Potential - change",
+        "Zoning": "Commercial Center",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "Currently held only for built-to-suit",
+        "Contact": "Mike Ring",
+        "Phone": "608-833-9044",
+        "Email": "miker@parktowne.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.49627,
+          43.059135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "Old Sauk Trails Park",
+        "Website_url": "http://www.gialamas.com/OldSaukTrailsPark/AboutOldSaukTrailsPark.aspx",
+        "Total_Acreage": 460,
+        "Available_Acreage": 5,
+        "Purchase_Price": "$25.00 per SF but land is not for sale only for development",
+        "Ownership": "The Gialamas Company",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "G2",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 35,
+        "Contact": "Aris Gialamas",
+        "Phone": "608-836-8000",
+        "Email": "Aris@gialamas.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5244,
+          43.078135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "McAllen T.E.C Corridor Complex 1",
+        "Website_url": "http://www.ruedebusch.com/brokerage",
+        "Total_Acreage": 14,
+        "Available_Acreage": 2.44,
+        "Purchase_Price": "Build-to-suit lease",
+        "Ownership": "Private (McAllen Properties)",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.57,
+        "min_lot_size": "25,000 SF",
+        "Zoning": "Planned Development District (PD)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "Designed for Build-To-Suit property between 25,000 - 50,000 Sq. Ft.",
+        "Contact": "Tom Phillips",
+        "Phone": "608-243-9070",
+        "Email": "tomp@ruedebusch.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.326304,
+          43.120311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "McAllen Truax Business Park",
+        "Website_url": "http://www.ruedebusch.com/brokerage",
+        "Total_Acreage": 14.75,
+        "Available_Acreage": 2.28,
+        "Purchase_Price": "Build-to-suit lease",
+        "Ownership": "Private (McAllen Properties)",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.34,
+        "min_lot_size": "15,000 SF",
+        "Zoning": "Industrial Limited (I-L)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "Designed for Build-To-Suit property between 15,000 - 40,000 Sq. Ft.",
+        "Contact": "Tom Phillips",
+        "Phone": "608-243-9070",
+        "Email": "tomp@ruedebusch.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.333138,
+          43.125801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "McAllen Hanson Rd. Business Park",
+        "Website_url": "http://www.ruedebusch.com/brokerage",
+        "Total_Acreage": "",
+        "Available_Acreage": "2 Parcels",
+        "Purchase_Price": "Build-to-suit lease",
+        "Ownership": "Private (McAllen Properties)",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.23,
+        "min_lot_size": "10,000 SF",
+        "Zoning": "Industrial Limited (I-L)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "Designed for Build-To-Suit property between 10,000 - 120,000 Sq. Ft.",
+        "Contact": "Tom Phillips",
+        "Phone": "608-243-9070",
+        "Email": "tomp@ruedebusch.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.323418,
+          43.152127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "McAllen 120 Business Park",
+        "Website_url": "http://www.ruedebusch.com/brokerage",
+        "Total_Acreage": 104.36,
+        "Available_Acreage": 78.61,
+        "Purchase_Price": "Build to-suit lease",
+        "Ownership": "Private (McAllen Properties)",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.57,
+        "min_lot_size": "25000 SF",
+        "Zoning": "Industrial Limited (I-L)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "Designed for Build-To-Suit property between 25000 - 300000 Sq. Ft.",
+        "Contact": "Tom Phillips",
+        "Phone": "608-243-9070",
+        "Email": "tomp@ruedebusch.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.269323,
+          43.050997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "High Crossing Office Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 190,
+        "Available_Acreage": 40,
+        "Purchase_Price": "$10 - $15.50 per SF Triple Net",
+        "Ownership": "Iainvestors",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "PUD",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 40,
+        "Contact": "Brett Riemen",
+        "Phone": "608-830-6308",
+        "Email": "briemen@vantacp.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.290588,
+          43.133276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "Tradesman Industrial Park",
+        "Website_url": "http://www.landandfarm.com/property/Tradesmen_Industrial_Park-164954/",
+        "Total_Acreage": 90,
+        "Available_Acreage": 64.77,
+        "Purchase_Price": "Sites from $306,227 - $846,806",
+        "Ownership": "City of Madison",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 1.48,
+        "min_lot_size": 1.48,
+        "Zoning": "Industrial ",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "N/A",
+        "Contact": "Blake George",
+        "Phone": "608-327-4000 x5",
+        "Email": "bgeorge@lee-associates.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.282563,
+          43.039453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "BioAg Gateway",
+        "Website_url": "https://www.cityofmadison.com/dpced/economicdevelopment/southeast-madison-business-park/529/",
+        "Total_Acreage": 27,
+        "Available_Acreage": 23.9,
+        "Purchase_Price": "$2.86 - $3.42 per SF",
+        "Ownership": "City of Madison",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 3.3,
+        "min_lot_size": 3.3,
+        "Zoning": "SE (Suburban Office Employment)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 15,
+        "Contact": "Tom Otto",
+        "Phone": "608-243-0178",
+        "Email": "totto@cityofmadison.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.289569,
+          43.057418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "Truax Air Park",
+        "Website_url": "http://www.msnairport.com",
+        "Total_Acreage": 300,
+        "Available_Acreage": 20,
+        "Purchase_Price": "Lease only current fair market price ",
+        "Ownership": "Dane County (Reg. Airport)",
+        "TIF_area": "Yes",
+        "TIF_District": "some parcels are in TIF",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "Per individual review",
+        "Zoning": "Light Manufacturing Office",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 12,
+        "Contact": "Kim Jones",
+        "Phone": "608-246-3391",
+        "Email": "jones.kimberly@msnairport.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.332108,
+          43.130954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "Novation Campus",
+        "Website_url": "http://alexandercompany.com/projects/novation-campus/",
+        "Total_Acreage": 70,
+        "Available_Acreage": 30,
+        "Purchase_Price": "Varies by parcel",
+        "Ownership": "Mid-town Center LLC an affiliate of the Alexander Company Inc.",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1,
+        "min_lot_size": "1 acre",
+        "Zoning": "Dane County B1 C1",
+        "Certified_Site": "No but we are interested in certification",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 8.5,
+        "Contact": "Andrew Schmidt",
+        "Phone": "608-268-8116",
+        "Email": "aschmidt@Alexanderre.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.381719,
+          43.035795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "Corben Business Park",
+        "Website_url": "http://www.rifken.com",
+        "Total_Acreage": 19,
+        "Available_Acreage": "290000 SF",
+        "Purchase_Price": "$1.50 - $4.50 per SF plus ground rent payment",
+        "Ownership": "Municipal (Dane County Regional Airport)",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "None",
+        "Zoning": "Inudstrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 19,
+        "Contact": "Marty Rifken",
+        "Phone": "608-575-9562",
+        "Email": "rifken@rifken.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.351377,
+          43.12252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "Blackhawk Church Town Center",
+        "Website_url": "No Website",
+        "Total_Acreage": 11,
+        "Available_Acreage": "3 lots available",
+        "Purchase_Price": "$8 - $9 per SF",
+        "Ownership": "Ross Menard; Multiple LLCs",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 1.75,
+        "min_lot_size": 1.75,
+        "Zoning": "GDP/SIP",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "50000 SF",
+        "Contact": "Ross Menard",
+        "Phone": "608-770-2650",
+        "Email": "michaelrossmenard@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5543,
+          43.06148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "World Dairy Center",
+        "Website_url": "http://resources.lee-associates.com/asp/user/website/PropertyProfile.asp?ParentID=35050",
+        "Total_Acreage": 193,
+        "Available_Acreage": "1 lot 3.45 acre",
+        "Purchase_Price": "$152,460 - $217,800 per Acre; $5 per SF",
+        "Ownership": "City of Madison",
+        "TIF_area": "No",
+        "TIF_District": "Closed",
+        "smallest_lot": 3.45,
+        "min_lot_size": 3.45,
+        "Zoning": "Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 3.45,
+        "Contact": "John Walsh",
+        "Phone": "608-327-4000 x2",
+        "Email": "jwalsh@lee-associates.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.288869,
+          43.060318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "Waubesa Business Campus",
+        "Website_url": "http://propertydrive.com/search/property.asp?proptype=4&propid=1694",
+        "Total_Acreage": 34,
+        "Available_Acreage": 22.96,
+        "Purchase_Price": "$2.26 - $3.90 per SF $4.45 SF for Lot 16",
+        "Ownership": "Marsh Road LLC",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Industrial-Limited",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 11,
+        "Contact": "Chris Caulum",
+        "Phone": "608-443-1040",
+        "Email": "ccaulum@oakbrookcorp.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.282849,
+          43.042111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "East Towne Commerce Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 7,
+        "Available_Acreage": 4,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Private- East Towne Storage LLC",
+        "TIF_area": "No",
+        "TIF_District": "N/A",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "N/A",
+        "Zoning": "Industrial-Limited",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "2 - 3",
+        "Contact": "Mark Jorgensen",
+        "Phone": "608-241-5790",
+        "Email": "mark@mandmre.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.304819,
+          43.125219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Madison",
+        "County": "Dane",
+        "Park_Name": "Interstate Commerce Park",
+        "Website_url": "http://resources.lee-associates.com/asp/user/website/PropertyProfile.asp?ParentID=40377",
+        "Total_Acreage": 60,
+        "Available_Acreage": 17.1,
+        "Purchase_Price": "$2 - $3 per SF or $128,502 - $196,020 per acre",
+        "Ownership": "City of Madison",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.92,
+        "min_lot_size": 0.92,
+        "Zoning": "Industrial-Limited",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "3 - 4",
+        "Contact": "Blake George",
+        "Phone": "608-327-4000 x5",
+        "Email": "bgeorge@lee-associates.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.31818,
+          43.154164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Middleton",
+        "County": "Dane",
+        "Park_Name": "Quarry Ridge Business Park",
+        "Website_url": "http://buildtosuit.com/properties/dane-county-portfolio/quarry-ridge-middleton-wi/",
+        "Total_Acreage": 64,
+        "Available_Acreage": 63,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Welton Family Limited Partnership",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "TBD",
+        "Zoning": "C-2 Commercial Town of Middleton AG ",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 63,
+        "Contact": "Welton Enterprises Inc.",
+        "Phone": "608-833-5590",
+        "Email": "paulm@buildtosuit.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.543338,
+          43.095043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Middleton",
+        "County": "Dane",
+        "Park_Name": "Discovery Springs",
+        "Website_url": "http://www.liveseycompany.com",
+        "Total_Acreage": 100,
+        "Available_Acreage": 4,
+        "Purchase_Price": "$10 - $20 per SF",
+        "Ownership": "Discovery Springs LLC",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #3",
+        "smallest_lot": 0.69,
+        "min_lot_size": "One lot 30,000 SF",
+        "Zoning": "PDD ",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 1.5,
+        "Contact": "John Livesey",
+        "Phone": "608-833-2929",
+        "Email": "jplivesey@liveseyco.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.522867,
+          43.098268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Middleton",
+        "County": "Dane",
+        "Park_Name": "Airport Road Business Park",
+        "Website_url": "http://www.ruedebusch.com/brokerage",
+        "Total_Acreage": "200+",
+        "Available_Acreage": 39.6,
+        "Purchase_Price": "; $8 - $12.50 per SF or $348,480 - $544,500 per Acre",
+        "Ownership": "Private (Multiple Owners)",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #3",
+        "smallest_lot": 2.4,
+        "min_lot_size": 2.4,
+        "Zoning": "PDD ",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 18.9,
+        "Contact": "Tom Phillips",
+        "Phone": "608-243-9070",
+        "Email": "tomp@ruedebusch.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.527051,
+          43.109924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Middleton",
+        "County": "Dane",
+        "Park_Name": "The Middleton Corporate Center",
+        "Website_url": "http://www.T5RE.com",
+        "Total_Acreage": 80,
+        "Available_Acreage": 28,
+        "Purchase_Price": "$6.95 - $8.25 per SF",
+        "Ownership": "Private; entities related - the Blettner Group",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #3",
+        "smallest_lot": 3.33,
+        "min_lot_size": 3.33,
+        "Zoning": "PDD ",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 15,
+        "Contact": "Timothy Carey",
+        "Phone": "608-826-4552",
+        "Email": "tim@t5re.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.529884,
+          43.107294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Middleton",
+        "County": "Dane",
+        "Park_Name": "Greenway Center",
+        "Website_url": "http://madison.artisreit.com/about/contact-us/",
+        "Total_Acreage": 62,
+        "Available_Acreage": 4,
+        "Purchase_Price": "Lease Only, $18.50 - $24.00 per SF Triple Net",
+        "Ownership": "Artis REIT",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #3",
+        "smallest_lot": 0.5,
+        "min_lot_size": 0.5,
+        "Zoning": "PDD ",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 2.25,
+        "Contact": "Brett Riemen",
+        "Phone": "608-830-6308",
+        "Email": "briemen@artisreit.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.52997,
+          43.090904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Mazomanie",
+        "County": "Dane",
+        "Park_Name": "Mazomanie Industrial Park",
+        "Website_url": "http://www.VillageOfMazomanieWi.gov",
+        "Total_Acreage": 52,
+        "Available_Acreage": 35.56,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Municipal - ROS No. 14 LLC - Fred Wolf - JFW Holdings LLC",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "None",
+        "Zoning": "I-1 Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 30,
+        "Contact": "Gary Harrop",
+        "Phone": "608-795-2120",
+        "Email": "gharrop@thepeoplescommunitybank.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.810986,
+          43.171326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Mount Horeb",
+        "County": "Dane",
+        "Park_Name": "North Cape Commons",
+        "Website_url": "http://www.ruedebusch.com/brokerage",
+        "Total_Acreage": 32.58,
+        "Available_Acreage": 28.5,
+        "Purchase_Price": "$4.00 - $8.25 per SF or $174,240 - $359,370 per Acre",
+        "Ownership": "Private",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1.5,
+        "min_lot_size": 1.5,
+        "Zoning": "Planned Industrial (Office/Retail/Hospitality)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 11.2,
+        "Contact": "Tom Phillips",
+        "Phone": "608-243-9070",
+        "Email": "tomp@ruedebusch.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.714334,
+          43.009585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Springfield",
+        "County": "Dane",
+        "Park_Name": "Schneider Road Business Center",
+        "Website_url": "https://www.thestorageguy-madison.com/Business-Space/Schneider-Business-Centre/",
+        "Total_Acreage": "",
+        "Available_Acreage": "Lots 2 4 & 6",
+        "Purchase_Price": "$8.50 per SF",
+        "Ownership": "Jim Wills (private owner)",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF approved in late 2014",
+        "smallest_lot": 0.48,
+        "min_lot_size": "20,700 SF",
+        "Zoning": "Commercial (C-2)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 4.42,
+        "Contact": "Jeff Daugherty",
+        "Phone": "608-695-9597",
+        "Email": "Shamrockllc@charter.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.518983,
+          43.120622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Springfield",
+        "County": "Dane",
+        "Park_Name": "Spingfield Corners Commercial Center",
+        "Website_url": "http://www.united-land.com/",
+        "Total_Acreage": 55,
+        "Available_Acreage": 9.1,
+        "Purchase_Price": "$3.25 per SF or $141,570 per acre",
+        "Ownership": "United Land Dev. Corp",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 1.9,
+        "min_lot_size": 1.9,
+        "Zoning": "C-2 Commercial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 4.4,
+        "Contact": "Daniel Ward",
+        "Phone": "608-770-1414",
+        "Email": "dan@united-land.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.55249,
+          43.188647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Sun Prairie",
+        "County": "Dane",
+        "Park_Name": "Sun Prairie Business Park",
+        "Website_url": "http://www.cityofsunprairie.com/288/Key-Development-Opportunities",
+        "Total_Acreage": 420,
+        "Available_Acreage": 88,
+        "Purchase_Price": "$2.00 - $3.00 per SF or $87,120 - $130,680 per acre",
+        "Ownership": "Municipal and Private",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #12",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Suburban Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 64,
+        "Contact": "Neil Stechschulte",
+        "Phone": "608-825-1107",
+        "Email": "nstechschulte@cityofsunprairie.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.208019,
+          43.200698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Sun Prairie",
+        "County": "Dane",
+        "Park_Name": "Sun Prairie TIF #9",
+        "Website_url": "http://www.cityofsunprairie.com/288/Key-Development-Opportunities",
+        "Total_Acreage": 24.92,
+        "Available_Acreage": 7.96,
+        "Purchase_Price": " $8 - $12 per SF or $349,480 - $522,720 per acre",
+        "Ownership": "Municipal ",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #9",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "N/A",
+        "Zoning": "Suburban Office",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 3.44,
+        "Contact": "Neil Stechschulte",
+        "Phone": "608-825-1107",
+        "Email": "nstechschulte@cityofsunprairie.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.268796,
+          43.157154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Verona",
+        "County": "Dane",
+        "Park_Name": "Verona Technology Park",
+        "Website_url": "http://propertydrive.com/search/property.asp?proptype=1&propid=2204",
+        "Total_Acreage": 250,
+        "Available_Acreage": 139.2,
+        "Purchase_Price": "$3 - $12 per SF depending on size & location",
+        "Ownership": "Anorev LLC",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1.5,
+        "min_lot_size": 1.5,
+        "Zoning": "Suburban Commercial Suburban Industrial Suburban Employment",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "40+",
+        "Contact": "Alex Weis",
+        "Phone": "608-833-2929",
+        "Email": "aweis@liveseyco.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.509703,
+          42.971016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Verona",
+        "County": "Dane",
+        "Park_Name": "Liberty Business Park",
+        "Website_url": "Soon - come",
+        "Total_Acreage": 253,
+        "Available_Acreage": "125+ ",
+        "Purchase_Price": "$3 - $12 per SF. Negotiable depending on size & location",
+        "Ownership": "Private: David Reinke",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #6",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "Suburban Industrial available for office space",
+        "Certified_Site": "Yes",
+        "Certified_By": "WEDC",
+        "max_contiguous_acreage": "125+",
+        "Contact": "David Reinke",
+        "Phone": "608-320-1334",
+        "Email": "david@lbrty.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.506946,
+          42.974695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Vienna",
+        "County": "Dane",
+        "Park_Name": "Vienna Business Center",
+        "Website_url": "No Website",
+        "Total_Acreage": 80,
+        "Available_Acreage": 4,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Privately owned by Gene C Evans",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 4,
+        "min_lot_size": 4,
+        "Zoning": "B-2 Highway Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "Call Gene Evans",
+        "Contact": "Gene C Evans",
+        "Phone": "608-212-0375",
+        "Email": "tovcleark@centurytel.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.380903,
+          43.244573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Waunakee",
+        "County": "Dane",
+        "Park_Name": "Waunakee Business Park",
+        "Website_url": "http://www.waunakeebusinesspark.com",
+        "Total_Acreage": 160,
+        "Available_Acreage": 86,
+        "Purchase_Price": "$2.50 - $5.00 per SF",
+        "Ownership": "Private: MLG Investments 2000 LLC",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 3,
+        "min_lot_size": 3,
+        "Zoning": "PUD",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 60,
+        "Contact": "Chuck Redjinski",
+        "Phone": "608-663-6000",
+        "Email": "ckr@mlgcommercial.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.433947,
+          43.185086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "West Port",
+        "County": "Dane",
+        "Park_Name": "North Mendota Energy and Tech. Park",
+        "Website_url": "http://www.ruedebusch.com/brokerage",
+        "Total_Acreage": 57,
+        "Available_Acreage": 57,
+        "Purchase_Price": "$3.50 - $6.00 per SF or $152,460 - $261,360",
+        "Ownership": "Private",
+        "TIF_area": "No",
+        "TIF_District": "Not currently may be started soon",
+        "smallest_lot": 5,
+        "min_lot_size": 5,
+        "Zoning": "C2 Industrial and Commercial",
+        "Certified_Site": "Yes",
+        "Certified_By": "WEDC",
+        "max_contiguous_acreage": 56.8,
+        "Contact": "Tom Phillips",
+        "Phone": "608-243-9070",
+        "Email": "tomp@ruedebusch.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.409592,
+          43.159985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Beaver Dam",
+        "County": "Dodge",
+        "Park_Name": "Lakeside Business Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 86,
+        "Available_Acreage": 40.2,
+        "Purchase_Price": "Negotiable depending on tax base & job creation",
+        "Ownership": "City of Beaver Dam",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Light & Heavy Manufacturing",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 15.5,
+        "Contact": "Trent Campbell",
+        "Phone": "920-887-4661",
+        "Email": "bdadc@cityofbeaverdam.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.832467,
+          43.483048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Beaver Dam",
+        "County": "Dodge",
+        "Park_Name": "Beaver Dam Business Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 128,
+        "Available_Acreage": 10,
+        "Purchase_Price": "Negotiable depending on tax base & job creation",
+        "Ownership": "City of Beaver Dam",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "Light Manufacturing",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 10,
+        "Contact": "Trent Campbell",
+        "Phone": "920-887-4661",
+        "Email": "bdadc@cityofbeaverdam.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.811781,
+          43.48104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Beaver Dam",
+        "County": "Dodge",
+        "Park_Name": "Beaver Dam 151 Business Park",
+        "Website_url": "http://www.inwisconsin.com/select-wisconsin/available-sites/certified-in-wisconsin/beaver-dam-wisconsin/",
+        "Total_Acreage": 196.6,
+        "Available_Acreage": 144.7,
+        "Purchase_Price": "Negotiable depending on tax base & job creation",
+        "Ownership": "City of Beaver Dam",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #7",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Light Manufacturing",
+        "Certified_Site": "Yes",
+        "Certified_By": "State of WI",
+        "max_contiguous_acreage": "144.7 Contiguous Developable Land",
+        "Contact": "Trent Campbell",
+        "Phone": "920-887-4661",
+        "Email": "bdadc@cityofbeaverdam.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.818069,
+          43.488793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Fox Lake",
+        "County": "Dodge",
+        "Park_Name": "Fox Lake Industrial Park",
+        "Website_url": "http://www.cityoffoxlake.org/zoning.html",
+        "Total_Acreage": 62,
+        "Available_Acreage": 13,
+        "Purchase_Price": "$1/acre if development level is acceptable",
+        "Ownership": "Controlled by Fox Lake Redev. Authority owned by the city (check)",
+        "TIF_area": "Yes",
+        "TIF_District": "Formerly #1, #2 in progress",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 28,
+        "Contact": "Dean Perlick",
+        "Phone": "920-928-2280",
+        "Email": "cityadmin@cityoffoxlake.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.916302,
+          43.556024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Horicon",
+        "County": "Dodge",
+        "Park_Name": "Horicon Phase II Business Park",
+        "Website_url": "http://www.cityhoriconwi.us/188/Business-Park",
+        "Total_Acreage": 150,
+        "Available_Acreage": 120,
+        "Purchase_Price": "$18,000 per acre (negotiable)",
+        "Ownership": "City Owned",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes new TIF in 2016",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 120,
+        "Contact": "Jim Schaefer",
+        "Phone": "920-485-3500 x3507",
+        "Email": "jschaefer@cityhoriconwi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.671856,
+          43.446025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Hustisford",
+        "County": "Dodge",
+        "Park_Name": "Hustisford Industrial Park",
+        "Website_url": "http://www.hustisford.com/",
+        "Total_Acreage": 11.7,
+        "Available_Acreage": 10,
+        "Purchase_Price": "$23,931 per acre",
+        "Ownership": "Municipal",
+        "TIF_area": "No",
+        "TIF_District": "Not divided into lots yet",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "None",
+        "Zoning": "R1",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "Possibly 136 acre - be annexed - the township.",
+        "Contact": "Kim Hopfinger",
+        "Phone": "920-349-3188",
+        "Email": "khopfinger@hustisford.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.600595,
+          43.336146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Juneau",
+        "County": "Dodge",
+        "Park_Name": "Juneau Industrial Park",
+        "Website_url": "http://www.cityofjuneau.net/2180/Industrial-Park",
+        "Total_Acreage": 80,
+        "Available_Acreage": 35,
+        "Purchase_Price": "$8,500 per acre (negotiable)",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #2",
+        "smallest_lot": 0.5,
+        "min_lot_size": 0.5,
+        "Zoning": "I-2 Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "~26",
+        "Contact": "City Clerk",
+        "Phone": "920-386-4800",
+        "Email": "cityhall@cityofjuneau.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.703356,
+          43.399446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Mayville",
+        "County": "Dodge",
+        "Park_Name": "River Knoll Industrial Park",
+        "Website_url": "http://www.mayvilleindustrialpark.com/",
+        "Total_Acreage": 111.69,
+        "Available_Acreage": 74.46,
+        "Purchase_Price": "$1/Acre with development valued at $225,000/Acre of property acquired",
+        "Ownership": "City of Mayville",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #3",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "M-2 Gen Manufacturing",
+        "Certified_Site": "No",
+        "Certified_By": "A plat of the Industrial Park is certified by the Department of Administration",
+        "max_contiguous_acreage": "Could Vary due to road construction",
+        "Contact": "Nathan Kempke",
+        "Phone": "608-387-7906 x1223",
+        "Email": "nkempke@mayvillecity.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.54856,
+          43.509168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Randolph",
+        "County": "Dodge",
+        "Park_Name": "Randolph Business Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 28.5,
+        "Available_Acreage": 17.9,
+        "Purchase_Price": "$10,000 - $15,000 per acre (negotiable)",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #2",
+        "smallest_lot": 6,
+        "min_lot_size": 6,
+        "Zoning": "B2-Hwy. Commercial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 10.4,
+        "Contact": "Nick Weinberger",
+        "Phone": "920-382-3469",
+        "Email": "fireguy6339@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.003012,
+          43.528991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Waupun",
+        "County": "Dodge",
+        "Park_Name": "Waupun Business Park",
+        "Website_url": "https://www.service-life.com/wi/cityofwaupun/economicdevelopment/Waupun%20Business%20Park%20map%204-20-09.pdf",
+        "Total_Acreage": 95,
+        "Available_Acreage": 95,
+        "Purchase_Price": "Starting at $20,000 per acre",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #1",
+        "smallest_lot": 5,
+        "min_lot_size": 5,
+        "Zoning": "M-2",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 200,
+        "Contact": "Kathy Schlieve",
+        "Phone": "920-324-7912",
+        "Email": "kathy@cityofwaupun.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.726273,
+          43.616516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Monroe",
+        "County": "Green",
+        "Park_Name": "Monroe Business and Industrial Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 115,
+        "Available_Acreage": 7.5,
+        "Purchase_Price": "Fair Market Value/Negotiable/$1.00 for qualifying projects",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes expenditure period has expired",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Industrial (M3)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 7.5,
+        "Contact": "Martin Shanks",
+        "Phone": "608-329-2521",
+        "Email": "mshanks@cityofmonroe.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.623547,
+          42.614013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Arena",
+        "County": "Iowa",
+        "Park_Name": "US 14 & Ray Hollow Rd.",
+        "Website_url": "http://www.realtor.com/realestateandhomes-detail/US-Highway-14_Arena_WI_53503_M88394-37509",
+        "Total_Acreage": 88.29,
+        "Available_Acreage": 88.29,
+        "Purchase_Price": "Call for Pricing",
+        "Ownership": "Private: Gail and Lois Arzt",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "N/A",
+        "Zoning": "Commercial Development",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 88.29,
+        "Contact": "Kevin Visel",
+        "Phone": "608-556-2088",
+        "Email": "kevin@acresllc.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.897475,
+          43.160016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Dodgeville",
+        "County": "Iowa",
+        "Park_Name": "Dodgeville Business Park",
+        "Website_url": "http://www.cityofdodgeville.com/index.asp?SEC=BE944D66-5877-46B8-9683-C7DEEFF2F0EB&Type=B_BASIC",
+        "Total_Acreage": "62.33 in TIF; 51.86 contiguous to TIF",
+        "Available_Acreage": "42 in TIF; 51.86 contiguous to TIF",
+        "Purchase_Price": "Negotiable",
+        "Ownership": "City of Dodgeville and Private",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #2",
+        "smallest_lot": 0.8,
+        "min_lot_size": "0.8 acres",
+        "Zoning": "Limited Industrial in TIF",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 94,
+        "Contact": "Phyllis Fritsch",
+        "Phone": "608-930-5091 x1",
+        "Email": "economic@ci.dodgeville.wi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.113769,
+          42.973592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Highland",
+        "County": "Iowa",
+        "Park_Name": "Highland Industrial Park",
+        "Website_url": "http://www.villageofhighland.net/",
+        "Total_Acreage": 15,
+        "Available_Acreage": 4,
+        "Purchase_Price": "$8,300 per acre",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 4,
+        "min_lot_size": 4,
+        "Zoning": "Manufacturing",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 4,
+        "Contact": "Becky Fredericks",
+        "Phone": "608-929-7781",
+        "Email": "bfredericks@villageofhighland.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.375094,
+          43.050293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Muscoda",
+        "County": "Iowa",
+        "Park_Name": "Muscoda Industrial Park - Site B",
+        "Website_url": "https://muscoda.files.wordpress.com/2012/06/industrial-park.pdf",
+        "Total_Acreage": 360,
+        "Available_Acreage": 22.5,
+        "Purchase_Price": "$5,500 per acre + business case breakdown",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1,
+        "min_lot_size": "1 acre",
+        "Zoning": "Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "14 acres",
+        "Contact": "Cinda Johnson",
+        "Phone": "608-739-3182",
+        "Email": "cljohnson@wppienergy.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.421193,
+          43.182326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Fort Atkinson",
+        "County": "Jefferson",
+        "Park_Name": "Robert L. Klement Business Park",
+        "Website_url": "http://x.lnimg.com/attachments/0979E2D9-9DAA-4309-B134-20F561D4D4F7.pdf",
+        "Total_Acreage": 163,
+        "Available_Acreage": "89-106",
+        "Purchase_Price": "$20,000 - $40,000 per acre",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #6",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "Heavy Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "30-47 (17 Private for Sales)",
+        "Contact": "Christian Chambers",
+        "Phone": "608-239-8277",
+        "Email": "christian.chambers@cbre.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.860426,
+          42.893144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Johnson Creek",
+        "County": "Jefferson",
+        "Park_Name": "East Industrial Area",
+        "Website_url": "No Website",
+        "Total_Acreage": 105,
+        "Available_Acreage": 105,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Private",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.46,
+        "min_lot_size": "20,000 SF",
+        "Zoning": "Mixed Use Business Park",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 105,
+        "Contact": "Kyle Ellefson",
+        "Phone": "920-699-2296",
+        "Email": "kylee@johnsoncreekwi.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.752487,
+          43.08115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Johnson Creek",
+        "County": "Jefferson",
+        "Park_Name": "Crossroads Business Park",
+        "Website_url": "http://www.loopnet.com/Listing/13838227/I-94-and-Hwy-26-Johnson-Creek-WI/",
+        "Total_Acreage": 48,
+        "Available_Acreage": "~37",
+        "Purchase_Price": "$64,000 - $175,000 per acre",
+        "Ownership": "Private",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #3",
+        "smallest_lot": 0.46,
+        "min_lot_size": "20,000 SF",
+        "Zoning": "Planned Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "~17",
+        "Contact": "Charles K. Redjinski",
+        "Phone": "608-663-6006",
+        "Email": "credjinski@mlgcommercial.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.76745,
+          43.091703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Johnson Creek",
+        "County": "Jefferson",
+        "Park_Name": "North Business Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 86,
+        "Available_Acreage": 64,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #3",
+        "smallest_lot": 0.46,
+        "min_lot_size": "20,000 SF",
+        "Zoning": "Mixed Use",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 23,
+        "Contact": "Kyle Ellefson",
+        "Phone": "920-699-2296",
+        "Email": "kylee@johnsoncreekwi.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.760394,
+          43.094449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Johnson Creek",
+        "County": "Jefferson",
+        "Park_Name": "South Business Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 28,
+        "Available_Acreage": 28,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Private",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.46,
+        "min_lot_size": "20,000 SF",
+        "Zoning": "General Business",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 28,
+        "Contact": "Kyle Ellefson",
+        "Phone": "920-699-2296",
+        "Email": "kylee@johnsoncreekwi.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.767288,
+          43.074765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Johnson Creek",
+        "County": "Jefferson",
+        "Park_Name": "North Industrial Area",
+        "Website_url": "No Website",
+        "Total_Acreage": 67,
+        "Available_Acreage": 67,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Private",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #3",
+        "smallest_lot": 0.46,
+        "min_lot_size": "20,000 SF",
+        "Zoning": "Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 44,
+        "Contact": "Kyle Ellefson",
+        "Phone": "920-669-2296",
+        "Email": "kylee@johnsoncreekwi.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7998271,
+          43.0155591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Lake Mills",
+        "County": "Jefferson",
+        "Park_Name": "Lake Mills Business Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 205.43,
+        "Available_Acreage": 64.85,
+        "Purchase_Price": "$17,000 per acre ",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #2 & #6",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "Planned Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 25.43,
+        "Contact": "Steven Wilke",
+        "Phone": "920-648-2344",
+        "Email": "swilke@ci.lake-mills.wi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.896732,
+          43.075827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Waterloo",
+        "County": "Jefferson",
+        "Park_Name": "Waterloo Business Park",
+        "Website_url": "http://www.waterloowi.us/municipal-website/economic-development",
+        "Total_Acreage": 38,
+        "Available_Acreage": 15,
+        "Purchase_Price": "$20,000 per acre",
+        "Ownership": "Private",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #2",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Heavy Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 15,
+        "Contact": "Mo Hansen",
+        "Phone": "920-478-3025",
+        "Email": "cityhall@waterloowi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.977622,
+          43.190806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Waterloo",
+        "County": "Jefferson",
+        "Park_Name": "Southeast Industrial Park",
+        "Website_url": "No Website",
+        "Total_Acreage": 152,
+        "Available_Acreage": 152,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Private",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "None",
+        "Zoning": "Agricultural",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 152,
+        "Contact": "John Sheehy",
+        "Phone": "920-202-5086",
+        "Email": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.975398,
+          43.180513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Watertown",
+        "County": "Jefferson",
+        "Park_Name": "Westside Industrial Park",
+        "Website_url": "http://www.jcedc.net",
+        "Total_Acreage": 116,
+        "Available_Acreage": 4,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "None",
+        "Zoning": "Industrial",
+        "Rail_Access": "Yes",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 50,
+        "Contact": "Kim Erdmann",
+        "Phone": "920-342-8053",
+        "Email": "kjerdmann@WEDObusinessWI.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.762657,
+          43.190854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Whitewater",
+        "County": "Jefferson",
+        "Park_Name": "Whitewater Business Park",
+        "Website_url": "https://whitewatertechpark.org/",
+        "Total_Acreage": 318,
+        "Available_Acreage": 92,
+        "Purchase_Price": "$34,000 per acre",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 0.46,
+        "min_lot_size": "20,000 SF",
+        "Zoning": "Business Industrial Park",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 42,
+        "Contact": "Pat Cannon",
+        "Phone": "262-473-0148",
+        "Email": "pcannon@whitewater-wi.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.713981,
+          42.839964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Whitewater",
+        "County": "Jefferson",
+        "Park_Name": "Whitewater University Technology Park",
+        "Website_url": "http://www.whitewatertechpark.org/",
+        "Total_Acreage": 130,
+        "Available_Acreage": 43.4,
+        "Purchase_Price": "$43,000 per acre",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4 (Distressed)",
+        "smallest_lot": 1,
+        "min_lot_size": "No less than 1 acre",
+        "Zoning": "Commercial",
+        "Certified_Site": "Yes",
+        "Certified_By": "Deloitte",
+        "max_contiguous_acreage": "No maximum",
+        "Contact": "Mark Johnson",
+        "Phone": "262-472-5290",
+        "Email": "johnsomw@uww.edu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.704944,
+          42.838854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Town of Beloit",
+        "County": "Rock",
+        "Park_Name": "Townline/Walters Road",
+        "Website_url": "http://www.rockcountyalliance.com/Portals/1/Townline%20Road%20Business%20Park%20(T%20of%20Beloit%20WI).pdf",
+        "Total_Acreage": 100,
+        "Available_Acreage": 65,
+        "Purchase_Price": "$10,000 - 15,000 per acre",
+        "Ownership": "Public",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 3,
+        "min_lot_size": 3,
+        "Zoning": "Industrial",
+        "Rail_Access": "Yes",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 65,
+        "Contact": "Ian Haas",
+        "Phone": "608-364-2980",
+        "Email": "ihaas@town.beloit.wi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.039598,
+          42.582075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Beloit",
+        "County": "Rock",
+        "Park_Name": "Gateway Business Park",
+        "Website_url": "http://www.rockcountyalliance.com/portals/1/images/aerial-photos/Gateway-Aerial.jpg",
+        "Total_Acreage": 450,
+        "Available_Acreage": 229,
+        "Purchase_Price": "$30,000 - $40,000 per acre",
+        "Ownership": "Public",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "Industrial",
+        "Certified_Site": "Yes",
+        "Certified_By": "WEDC & Ady-Austin",
+        "max_contiguous_acreage": 80,
+        "Contact": "Andrew Janke",
+        "Phone": "608-364-6748",
+        "Email": "Jankea@beloitwi.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.967779,
+          42.51607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Clinton",
+        "County": "Rock",
+        "Park_Name": "Clinton Industrial Park",
+        "Website_url": "http://www.rockcountyalliance.com/Portals/1/images/aerial-photos/Clinton-Aerial.jpg",
+        "Total_Acreage": 64.4,
+        "Available_Acreage": "10+",
+        "Purchase_Price": "$15,000 per acre",
+        "Ownership": "Public",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 19.3,
+        "Contact": "David Hooker",
+        "Phone": "608-676-5140",
+        "Email": "dhooker@clintonwi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.876734,
+          42.551267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Edgerton",
+        "County": "Dane",
+        "Park_Name": "Edgerton Business Park",
+        "Website_url": "http://www.cityofedgerton.com/edgerton-business-park-documentation",
+        "Total_Acreage": 47,
+        "Available_Acreage": 41.9,
+        "Purchase_Price": "$15,000 - $19,900 per acre",
+        "Ownership": "City of Edgerton",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #5",
+        "smallest_lot": 3,
+        "min_lot_size": 3,
+        "Zoning": "M-1 Industrial Light",
+        "Certified_Site": "No",
+        "Certified_By": "Ady International",
+        "max_contiguous_acreage": 15.5,
+        "Contact": "Ramona Flanigan",
+        "Phone": "608-884-3341",
+        "Email": "rflanigan@cityofedgerton.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.05458,
+          42.856255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Evansville",
+        "County": "Rock",
+        "Park_Name": "Evansville Business Park",
+        "Website_url": "http://www.rockcountyalliance.com/available-properties/shovel-ready-sites",
+        "Total_Acreage": 40,
+        "Available_Acreage": 40,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Private ",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Industrrial & Commercial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 20,
+        "Contact": "Jason Sergeant",
+        "Phone": "608-882-2285",
+        "Email": "Jason.sergeant@ci.evansville.wi.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27207,
+          42.777847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Footville",
+        "County": "Rock",
+        "Park_Name": "Footville Business Park",
+        "Website_url": "http://www.rockcountyalliance.com/portals/1/images/aerial-photos/Footville-Aerial.jpg",
+        "Total_Acreage": 30,
+        "Available_Acreage": 1.36,
+        "Purchase_Price": "Negotiable",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #1",
+        "smallest_lot": 1.36,
+        "min_lot_size": 1.36,
+        "Zoning": "Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "MSA Professional Services",
+        "max_contiguous_acreage": 41,
+        "Contact": "Julie Gerke",
+        "Phone": "608-876-6116",
+        "Email": "Footville@T6B.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.205637,
+          42.665654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Janesville",
+        "County": "Rock",
+        "Park_Name": "State Highway 11 Business Park",
+        "Website_url": "http://www.rockcountyalliance.com/available-properties/shovel-ready-sites",
+        "Total_Acreage": 224,
+        "Available_Acreage": 71,
+        "Purchase_Price": "$36,000 per acre",
+        "Ownership": "Public",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 10,
+        "min_lot_size": 10,
+        "Zoning": "Industrial",
+        "Certified_Site": "Yes",
+        "Certified_By": "WEDC & Ady-Austin",
+        "max_contiguous_acreage": 71,
+        "Contact": "Gale Price",
+        "Phone": "608-755-3059",
+        "Email": "priceg@ci.janesville.wi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.017797,
+          42.632906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Janesville",
+        "County": "Rock",
+        "Park_Name": "Midlands Office Park",
+        "Website_url": "http://www.rockcountyalliance.com/Portals/1/Midlands%20Business%20Park%20Flyer.pdf",
+        "Total_Acreage": 11.6,
+        "Available_Acreage": "4.6 or 7 acre lot (will subdivide)",
+        "Purchase_Price": "$2.4M (7 acre) or $1.4M (4.6 acre) or $8 per SF",
+        "Ownership": "Starbrite LLC",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "B-4 & O-1",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 4.6,
+        "Contact": "Bill Mears",
+        "Phone": "608-752-6325",
+        "Email": "bill@mcguiremears.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.981643,
+          42.672735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Janesville",
+        "County": "Rock",
+        "Park_Name": "East Side Business Park",
+        "Website_url": "http://www.rockcountyalliance.com/Portals/1/EastSideBusParks.pdf",
+        "Total_Acreage": 125,
+        "Available_Acreage": 30,
+        "Purchase_Price": "$22,096 per acre",
+        "Ownership": "Public",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 4,
+        "min_lot_size": 4,
+        "Zoning": "Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 19.6,
+        "Contact": "Gale Price",
+        "Phone": "608-755-3059",
+        "Email": "priceg@ci.janesville.wi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.963208,
+          42.675531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Milton",
+        "County": "Rock",
+        "Park_Name": "Crossroads Business Park",
+        "Website_url": "http://www.milton-wi.gov/index.aspx?NID=370",
+        "Total_Acreage": 200,
+        "Available_Acreage": 128,
+        "Purchase_Price": "$30,000 per acre",
+        "Ownership": "Public",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 4,
+        "min_lot_size": 4,
+        "Zoning": "Industrial & Commercial",
+        "Certified_Site": "No",
+        "Certified_By": "Ady-Austin",
+        "max_contiguous_acreage": 74,
+        "Contact": "Al Julick",
+        "Phone": "608-868-6900",
+        "Email": "alhulick@milton-wi.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.918319,
+          42.76879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Orfordville",
+        "County": "Rock",
+        "Park_Name": "Orfordville Business Park",
+        "Website_url": "http://www.orfordville.org/business/business-industry",
+        "Total_Acreage": 50,
+        "Available_Acreage": 29,
+        "Purchase_Price": "$32,000 - $122,000 for various lots (w/ no value) ",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #3",
+        "smallest_lot": 0.69,
+        "min_lot_size": "0.69 acre",
+        "Zoning": "Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 4.3,
+        "Contact": "Sherri Waege",
+        "Phone": "608-879-2004",
+        "Email": "clerk@orfordville.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.268036,
+          42.632732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Baraboo",
+        "County": "Sauk",
+        "Park_Name": "Gateway Business Park",
+        "Website_url": "http://www.loopnet.com/xNet/LoopLink/Profile/Profile.aspx?LID=19949632&STID=firstweber&LinkCode=19782&PgCxtGuid=12820eed-fed5-4013-86e9-5b0ec16926a3&PgCxtFLKey=Profile&PgCxtCurFLKey=Profile&PgCxtDir=Up",
+        "Total_Acreage": 26.66,
+        "Available_Acreage": 26.66,
+        "Purchase_Price": "$4.00 - $12.00 per SF depending on size and location",
+        "Ownership": "Private- Smith Family",
+        "TIF_area": "Yes",
+        "TIF_District": "Yes",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "I-4",
+        "Certified_Site": "Gold Shovel",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": "11.64",
+        "Contact": "Gary Wegner",
+        "Phone": "608-963-9915",
+        "Email": "wegnerg@firstweber.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.776261,
+          43.457073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Plain",
+        "County": "Sauk",
+        "Park_Name": "Honey Creek Business Park",
+        "Website_url": "http://www.villageofplain.com/vertical/sites/%7B2539A27B-682B-4658-BAF5-ABA39634A1A0%7D/uploads/Info_Sheet_-_Land_For_Sale_3-22-2017.pdf",
+        "Total_Acreage": 13.45,
+        "Available_Acreage": 13.45,
+        "Purchase_Price": "$10,000 per acre",
+        "Ownership": "Village of Plain",
+        "TIF_area": "No",
+        "TIF_District": "No",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 13,
+        "Contact": "Kevin Visel",
+        "Phone": "608-298-6598",
+        "Email": "kevin@acresllc.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.045973,
+          43.283889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Prairie du Sac",
+        "County": "Sauk",
+        "Park_Name": "North Ridge Business Park",
+        "Website_url": "http://www.northridge78.com",
+        "Total_Acreage": 25,
+        "Available_Acreage": 9,
+        "Purchase_Price": "$5.50 per SF",
+        "Ownership": "Kirner & Kirner LLC",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #4",
+        "smallest_lot": 2,
+        "min_lot_size": 2,
+        "Zoning": "O-R Office and Research",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 2.6,
+        "Contact": "Brett Kirner",
+        "Phone": "608-370-3300",
+        "Email": "info@northridge78.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.733442,
+          43.305277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Reedsburg",
+        "County": "Sauk",
+        "Park_Name": "Reedsburg Industrial Park",
+        "Website_url": "http://www.reedsburgwi.gov/index.asp?Type=B_BASIC&SEC=%7BE436F57F-97F9-413B-AC7F-A07E59EC54AC%7D",
+        "Total_Acreage": 240,
+        "Available_Acreage": 26,
+        "Purchase_Price": "$15,000 per acre.  Negotiable based on project's economic benefit",
+        "Ownership": "City of Reedsburg",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #9",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "I-2 Heavy Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 24,
+        "Contact": "Donald Lichte",
+        "Phone": "608-963-7558",
+        "Email": "dhlichte@rucls.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.988402,
+          43.522638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Reedsburg",
+        "County": "Sauk",
+        "Park_Name": "Reedsburg Business Park",
+        "Website_url": "http://www.reedsburgwi.gov/index.asp?Type=B_BASIC&SEC={57516CD6-76F2-409D-B24C-50A023AF6527}",
+        "Total_Acreage": 80,
+        "Available_Acreage": 50,
+        "Purchase_Price": "$15,000 per acre.  Negotiable based on project's economic benefit",
+        "Ownership": "City of Reedsburg",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #9",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "I-4 Light Industrial",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 45,
+        "Contact": "Donald Lichte",
+        "Phone": "608-963-7558",
+        "Email": "dhlichte@rucls.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.970914,
+          43.528713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "Sauk City",
+        "County": "Sauk",
+        "Park_Name": "Sauk City Office Park",
+        "Website_url": "http://www.saukcity.net/index.asp?Type=B_BASIC&SEC={8C0921FC-7174-42DF-B1B5-96C5AA98022C}",
+        "Total_Acreage": 19.8,
+        "Available_Acreage": 19.8,
+        "Purchase_Price": "$50,000 per acre but negotiable based on construction costs",
+        "Ownership": "Municipal",
+        "TIF_area": "Yes",
+        "TIF_District": "TIF #7",
+        "smallest_lot": 0.0001,
+        "min_lot_size": "Negotiable",
+        "Zoning": "MG (General Industry)",
+        "Certified_Site": "No",
+        "Certified_By": "N/A",
+        "max_contiguous_acreage": 15.2,
+        "Contact": "Vicki Breunig",
+        "Phone": "608-643-3932",
+        "Email": "vicki@saukcity.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.740963,
+          43.264665
+        ]
+      }
+    }
+  ]
+}
