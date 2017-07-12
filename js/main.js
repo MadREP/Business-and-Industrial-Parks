@@ -530,8 +530,8 @@ function pointToLayer(feature, latlng, attributes, layer){
 				$("#website").css("top", "110px");
 				$("#sectional").css("top", "145px");
 			} else if (parkTitle.length < 36) {
-				$("#website").css("top", "80px");
-				$("#sectional").css("top", "115px");
+				$("#website").css("top", "85px");
+				$("#sectional").css("top", "120px");
 			} else if (parkTitle.length > 55) {
 				$("#website").css("top", "145px");
 				$("#sectional").css("top", "180px");
