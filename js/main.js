@@ -506,6 +506,7 @@ function pointToLayer(feature, latlng, attributes, layer){
 		};
 	});
 
+
   // event listeners to open popup on hover
   layer.on({
     mouseover: function(){
@@ -517,10 +518,24 @@ function pointToLayer(feature, latlng, attributes, layer){
     click: function(e) {
 			clickZoom(e);
 			$("#right-panel").show();
-      $("#park-title").html(parkTitle);
+      		$("#park-title").html(parkTitle);
 			$("#website").html(website);
 			//$("#website").css('display', 'block')
 			$("#sectional").html(panelContent);
+			console.log(parkTitle.length);
+			if (parkTitle.length < 43 && parkTitle.length >= 36) {
+				$("#website").css("top", "110px");
+				$("#sectional").css("top", "145px");
+			} else if (parkTitle.length < 36) {
+				$("#website").css("top", "80px");
+				$("#sectional").css("top", "115px");
+			} else if (parkTitle.length > 55) {
+				$("#website").css("top", "145px");
+				$("#sectional").css("top", "180px");
+			} else {
+				$("#website").css("top", "115px");
+				$("#sectional").css("top", "150px");
+			};
     }
   });
 
