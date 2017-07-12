@@ -415,6 +415,7 @@ body {
     background-color: #3385ff;
     border-radius: 25px;
 }
+
 #park-title {
   width: 100%;
   position: absolute;
@@ -422,6 +423,19 @@ body {
   height: 55px;
   top: 5px;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#close {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  z-index: 500;
+}
+
+#close:hover {
+  background-color: black;
+  color: white;
+  border-radius: 7px;
 }
 
 #sectional {

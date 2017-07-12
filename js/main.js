@@ -506,6 +506,9 @@ function pointToLayer(feature, latlng, attributes, layer){
 		};
 	});
 
+	$("#close").on('click', function() {
+		$("#right-panel").css("display", "none");
+	});
 
   // event listeners to open popup on hover
   layer.on({
