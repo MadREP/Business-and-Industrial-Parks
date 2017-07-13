@@ -290,6 +290,7 @@ function pointToLayer(feature, latlng, attributes, layer){
 		};
 
 		$('#search').css('left', '335px');
+		$('#refresh-background').css('left', '575px');
 		$('#cert').css('display', 'block');
 		$("#gold").css('display', 'none');
 		$("#shovel").css('display', 'none');
@@ -308,6 +309,7 @@ function pointToLayer(feature, latlng, attributes, layer){
 		};
 
 		$('#search').css('left', '335px');
+		$('#refresh-background').css('left', '575px');
 		$('#gold').css('display', 'block');
 		$("#cert").css('display', 'none');
 		$("#shovel").css('display', 'none');
@@ -326,6 +328,7 @@ function pointToLayer(feature, latlng, attributes, layer){
 		};
 
 		$('#search').css('left', '335px');
+		$('#refresh-background').css('left', '575px');
 		$('#shovel').css('display', 'block');
 		$("#gold").css('display', 'none');
 		$("#cert").css('display', 'none');
@@ -341,6 +344,7 @@ function pointToLayer(feature, latlng, attributes, layer){
 		map.addLayer(layer);
 
 		$('#search').css('left', '190px');
+		$('#refresh-background').css('left', '430px');
 		$("#tif-district").css('display', 'none');
 		$("#rail-access").css('display', 'none');
 		$("#dropdown-counties").css('display', 'none');
@@ -354,6 +358,7 @@ function pointToLayer(feature, latlng, attributes, layer){
 	$("#county").on('click', function() {
 
 		$('#search').css('left', '335px');
+		$('#refresh-background').css('left', '575px');
 		$("#dropdown-sizes").css("display", "none");
 		$("#tif-district").css('display', 'none');
 		$("#rail-access").css('display', 'none');
@@ -368,6 +373,7 @@ function pointToLayer(feature, latlng, attributes, layer){
 	$("#min-lot-size").on('click', function() {
 
 		$('#search').css('left', '335px');
+		$('#refresh-background').css('left', '575px');
 		$("#dropdown-sizes").css("display", "block");
 		$("#dropdown-counties").css("display", "none");
 		$("#tif-district").css('display', 'none');
@@ -438,6 +444,7 @@ function pointToLayer(feature, latlng, attributes, layer){
 	$("#rail").on('click', function() {
 
 		$('#search').css('left', '335px');
+		$('#refresh-background').css('left', '575px');
 		$("#rail-access").css('display', 'block');
 		$("#tif-district").css('display', 'none');
 		$("#dropdown-counties").css('display', 'none');
@@ -456,6 +463,7 @@ function pointToLayer(feature, latlng, attributes, layer){
 	$("#tif").on('click', function() {
 
 		$('#search').css('left', '335px');
+		$('#refresh-background').css('left', '575px');
 		$("#tif-district").css('display', 'block');
 		$("#rail-access").css('display', 'none');
 		$("#dropdown-counties").css('display', 'none');

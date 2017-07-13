@@ -266,11 +266,24 @@ body {
   display: none;
 }
 
+#refresh-background {
+  position: absolute;
+  background-image: url("img/tweed/tweed.png");
+  height: 43px;
+  width: 50px;
+  top: 0px;
+  left: 430px;
+  border: solid;
+  border-width: thin;
+  border-color: black;
+  border-top: none;
+}
+
 #refresh {
     position: absolute;
     cursor: pointer;
-    left: 9px;
-    top: 205px;
+    left: 11px;
+    top: 7px;
     border: solid;
     border-width: 0.1px;
     border-color: gray;
