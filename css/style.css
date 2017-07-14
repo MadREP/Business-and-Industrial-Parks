@@ -72,7 +72,7 @@ body {
   position: absolute;
   height: 43px;
   width: 120px;
-  left: 70px;
+  left: 50px;
   border: solid;
   border-width: thin;
   border-color: black;
@@ -95,7 +95,7 @@ body {
   position: absolute;
   height: 43px;
   width: 240px;
-  left: 190px;
+  left: 170px;
   border: solid;
   border-width: thin;
   border-color: black;
@@ -280,7 +280,7 @@ body {
   height: 43px;
   width: 50px;
   top: 0px;
-  left: 430px;
+  left: 410px;
   border: solid;
   border-width: thin;
   border-color: black;
