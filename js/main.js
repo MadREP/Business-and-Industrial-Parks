@@ -233,7 +233,7 @@ function pointToLayer(feature, latlng, attributes, layer){
   var parkTitle = "<h2><b>" + feature.properties.Park_Name + "</b></h2></p>";
 
 	var panelContent = "<p><b>Community</b>: " + feature.properties.Community_Name + "</p>";
-			panelContent += "<h4><b>County:</b> " + feature.properties.County + "</h4>"
+			panelContent += "<p><b>County:</b> " + feature.properties.County + "</p>"
 			panelContent += "<p><b>Total Acreage:</b> " + feature.properties.Total_Acreage + "</p>";
 			panelContent += "<p><b>Available Acreage:</b> " + feature.properties.Available_Acreage + "</p>";
 			panelContent += "<p><b>Purchase Price:</b> " +
@@ -250,7 +250,7 @@ function pointToLayer(feature, latlng, attributes, layer){
 			}
 
 			panelContent += "<p><b>Site Contact:</b> " + feature.properties.Contact + "</p>";
-			panelContent += "<h4><b>Phone:</b> " + feature.properties.Phone + "</h4>";
+			panelContent += "<p><b>Phone:</b> " + feature.properties.Phone + "</p>";
 			panelContent += "<p><b>Email:</b> " + feature.properties.Email + "</p>";
 
 	var website = document.createElement("img");
@@ -580,5 +580,103 @@ function Popup(properties, layer, radius){
     });
   }; // close to bindToLayer
 }; // close to Popup function
+
+$(window).resize(function() {
+
+  if ($(window).width() < 600) {
+    $('#right-panel').css({
+      'width': '30%'
+    });
+    $('#website').css({
+    	'left': '6%'
+    });
+    $('#sectional p').css({
+    	'font-size': '13px'
+    });
+    $('#legend').css({
+    	'height': '30px',
+    	'width': '365px'
+    });
+    $('#section-1').css({
+    	'top': '2px',
+    	'left': '-10px',
+    	'font-size': '13px'
+    });
+    $('#section-2').css({
+    	'top': '2px',
+    	'left': '90px',
+    	'font-size': '13px'
+    });
+    $('#section-3').css({
+    	'top': '2px',
+    	'left': '210px',
+    	'font-size': '13px'
+    });
+    $('#certified-rect').css({
+    	'left': '20px'
+    });
+    $('#gold-shovel-rect').css({
+    	'left': '20px'
+    });
+    $('#regular-rect').css({
+    	'left': '20px'
+    });
+    // $('#filter').css({
+    // 	'width': '80px',
+    // 	'height': '25px',
+    // 	'left': '50px',
+    // 	'text-indent': '10px',
+    // 	'line-height': '25px',
+    // 	'font-size': '13px'
+    // });
+  } else {
+    $('#right-panel').css({
+      'width': '180px'
+    });
+    $('#website').css({
+    	'left': '25px'
+    });
+    $('#sectional p').css({
+    	'font-size': '15px'
+    });
+    $('#legend').css({
+    	'height': '86px',
+    	'width': '175px'
+    });
+    $('#section-1').css({
+    	'top': '0px',
+    	'left': '0px',
+    	'font-size': '15px'
+    });
+    $('#section-2').css({
+    	'top': '30px',
+    	'left': '0px',
+    	'font-size': '15px'
+    });
+    $('#section-3').css({
+    	'top': '60px',
+    	'left': '0px',
+    	'font-size': '15px'
+    });
+    $('#certified-rect').css({
+    	'left': '9px'
+    });
+    $('#gold-shovel-rect').css({
+    	'left': '9px'
+    });
+    $('#regular-rect').css({
+    	'left': '9px'
+    });
+    // $('#filter').css({
+    // 	'width': '120px',
+    // 	'height': '43px',
+    // 	'left': '70px',
+    // 	'text-indent': '15.1px',
+    // 	'line-height': '44px',
+    // 	'font-size': '16px'
+    // });
+  } 
+
+});
 
 $(document).ready(initialize);

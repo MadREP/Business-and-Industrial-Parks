@@ -4,6 +4,14 @@ body {
 
 }
 
+#frame {
+/*  position: absolute;
+  left: 200px;
+  top: 50px;
+  width: 500px;
+  height: 450px;*/
+}
+
 #mapid {
   height: 100%;
   width: 100%;
@@ -463,12 +471,12 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
-#sectional h4 {
+/*#sectional h4 {
   font-weight: lighter;
   line-height: 2px;
   overflow: visible;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
-}
+}*/
 
 #sectional p {
   font-size: 15px;
