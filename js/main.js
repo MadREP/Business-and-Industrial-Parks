@@ -343,8 +343,8 @@ function pointToLayer(feature, latlng, attributes, layer){
 	$("#refresh").on('click', function() {
 		map.addLayer(layer);
 
-		$('#search').css('left', '190px');
-		$('#refresh-background').css('left', '430px');
+		$('#search').css('left', '170px');
+		$('#refresh-background').css('left', '410px');
 		$("#tif-district").css('display', 'none');
 		$("#rail-access").css('display', 'none');
 		$("#dropdown-counties").css('display', 'none');
