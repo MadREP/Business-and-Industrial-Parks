@@ -547,6 +547,17 @@ function pointToLayer(feature, latlng, attributes, layer){
 				$("#website").css("top", "115px");
 				$("#sectional").css("top", "150px");
 			};
+			if ($(window).width() < 600) {
+				$('#right-panel').css({
+      				'width': '30%'
+    			});
+    			$('#website').css({
+    				'left': '6%'
+    			});
+    			$('#sectional p').css({
+    				'font-size': '13px'
+    			});
+			};
     }
   });
 
