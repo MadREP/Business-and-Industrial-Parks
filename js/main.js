@@ -6,6 +6,7 @@ function initialize(){
 };
 
 var map;
+var titleLength;
 
 // function to create the map
 function createMap() {
@@ -27,6 +28,10 @@ function createMap() {
 	 minZoom: 7,
 	 attribution: 'Tiles courtesy of <a href="http://openstreetmap.se/" target="_blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	});
+
+	var mobile = L.easyButton('fa-mobile fa-2x', function(btn, map) {
+			onClick: mobileWindow();
+	}).addTo(map);
 
 // https: also suppported.
 // var Esri_WorldStreetMap = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
@@ -51,6 +56,11 @@ function createMap() {
 
 };
 
+// opens up github sit for fullscreen for mobile
+function mobileWindow() {
+	window.open('https://madrep.github.io/Business-and-Industrial-Parks/');
+};
+
 // styling for non-SW region that is more opaque
 function statesStyle() {
 		return {
@@ -73,6 +83,7 @@ function countyStyle() {
 		};
 };
 
+// function to create search geocoder and load data
 function getData(map) {
 
 	// add navigation bar to the map
@@ -130,22 +141,20 @@ function processData(data){
 	  return attributes;
 };
 
-
 // add circle markers for point features to the map
 function createSymbols(data, map, attributes){
 
   // create a Leaflet GeoJSON layer and add it to the map
   var locationSymbols = L.geoJson(data, {
     pointToLayer: function(feature, latlng){
-      return pointToLayer(feature, latlng, attributes);
+      	return pointToLayer(feature, latlng, attributes);
     }
   }).addTo(map);
 
 	// call search funtion
-  search(map, data, locationSymbols)
+  search(map, data, locationSymbols);
 
 }; // close ot createSymbols
-
 
 // funtion to create the search control
 function search (map, data, locationSymbols){
@@ -169,7 +178,6 @@ function search (map, data, locationSymbols){
 
 }; // close to search function
 
-
 // function to create markers layer
 function pointToLayer(feature, latlng, attributes, layer){
 
@@ -188,7 +196,6 @@ function pointToLayer(feature, latlng, attributes, layer){
 
   // For each feature, determine its value for the selected attribute
   var attValue = feature.properties[attribute];
-
 
   // assign the marker with the options styling and using the latlng repsectively
   var layer = L.marker(latlng, options);
@@ -227,7 +234,6 @@ function pointToLayer(feature, latlng, attributes, layer){
 
 			layer = L.marker(latlng, {icon: goldIcon}, options);
 		};
-
 
   // panel content string starting with country
   var parkTitle = "<h2><b>" + feature.properties.Park_Name + "</b></h2></p>";
@@ -269,12 +275,12 @@ function pointToLayer(feature, latlng, attributes, layer){
 	});
 
 	// variable to hold the hyperlink for the websites
-  var href = feature.properties.Website_url;
+  	var href = feature.properties.Website_url;
 
 	if (href !== 'No Website') {
 		website.onclick = function() {
-    	window.open(feature.properties.Website_url, '_blank');
-  	}
+    		window.open(feature.properties.Website_url, '_blank');
+  		}
 	}
 
   // creates a new popup object
@@ -533,7 +539,11 @@ function pointToLayer(feature, latlng, attributes, layer){
 			$("#website").html(website);
 			//$("#website").css('display', 'block')
 			$("#sectional").html(panelContent);
+
 			console.log(parkTitle.length);
+
+			titleLength = parkTitle.length;
+
 			if (parkTitle.length < 43 && parkTitle.length >= 36) {
 				$("#website").css("top", "110px");
 				$("#sectional").css("top", "145px");
@@ -547,7 +557,34 @@ function pointToLayer(feature, latlng, attributes, layer){
 				$("#website").css("top", "115px");
 				$("#sectional").css("top", "150px");
 			};
-			Sizing();
+
+			if ($(window).width() < 600) {
+
+    			$('#right-panel').css({
+      				'width': '70%'
+    			});
+    			$('#website').css({
+    				'left': '31%'
+    			});
+    			$('#sectional p').css({
+    				'font-size': '13px'
+    			});
+
+				if (parkTitle.length < 43 && parkTitle.length >= 36) {
+					$("#website").css("top", "75px");
+					$("#sectional").css("top", "110px");
+				} else if (parkTitle.length < 36) {
+					$("#website").css("top", "70px");
+					$("#sectional").css("top", "105px");
+				} else if (parkTitle.length > 55) {
+					$("#website").css("top", "100px");
+					$("#sectional").css("top", "135px");
+				} else {
+					$("#website").css("top", "90px");
+					$("#sectional").css("top", "125px");
+				};
+
+			};
     }
   });
 
@@ -556,10 +593,10 @@ function pointToLayer(feature, latlng, attributes, layer){
 
 }; // close to pointToLayer function
 
-
 // reset maps view on click
 function clickZoom(e) {
 	if (map.getZoom() < 13) {
+		console.log(e.target.getLatLng());
 		map.flyTo(e.target.getLatLng(), 13, 0.5);
 	} else {
 		map.flyTo(e.target.getLatLng(), map.getZoom(), 0.5);
@@ -590,14 +627,36 @@ $(window).resize(function() {
 	Sizing();
 });
 
+
 function Sizing() {
 
   if ($(window).width() < 600) {
+
+  	if (titleLength < 43 && titleLength >= 36) {
+					$("#website").css("top", "75px");
+					$("#sectional").css("top", "110px");
+				} else if (titleLength < 36) {
+					$("#website").css("top", "70px");
+					$("#sectional").css("top", "105px");
+				} else if (titleLength > 55) {
+					$("#website").css("top", "100px");
+					$("#sectional").css("top", "135px");
+				} else {
+					$("#website").css("top", "90px");
+					$("#sectional").css("top", "125px");
+				};
+
     $('#right-panel').css({
-      'width': '30%'
+    	'right': '15%',
+    	'top': '55%',
+    	'height': '35%',
+    	'width': '70%',
+    	'border-right': 'solid',
+    	'border-width': '3.5px',
+    	'border-color': 'black'
     });
     $('#website').css({
-    	'left': '6%'
+    	'left': '31%'
     });
     $('#sectional p').css({
     	'font-size': '13px'
@@ -639,8 +698,27 @@ function Sizing() {
     // 	'font-size': '13px'
     // });
   } else {
+
+  	if (titleLength < 43 && titleLength >= 36) {
+				$("#website").css("top", "110px");
+				$("#sectional").css("top", "145px");
+			} else if (titleLength < 36) {
+				$("#website").css("top", "85px");
+				$("#sectional").css("top", "120px");
+			} else if (titleLength > 55) {
+				$("#website").css("top", "145px");
+				$("#sectional").css("top", "180px");
+			} else {
+				$("#website").css("top", "115px");
+				$("#sectional").css("top", "150px");
+			};
+
     $('#right-panel').css({
-      'width': '180px'
+     	'width': '180px',
+     	'top': '15%',
+     	'right': '0px',
+    	'height': '70%',
+    	'border-right': 'none'
     });
     $('#website').css({
     	'left': '25px'
@@ -685,7 +763,6 @@ function Sizing() {
     // 	'font-size': '16px'
     // });
   } 
-
 };
 
 $(document).ready(initialize);
