@@ -29,9 +29,9 @@ function createMap() {
 	 attribution: 'Tiles courtesy of <a href="http://openstreetmap.se/" target="_blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 	});
 
-	var mobile = L.easyButton('fa-mobile fa-2x', function(btn, map) {
-			onClick: mobileWindow();
-	}).addTo(map);
+	// var mobile = L.easyButton('fa-mobile fa-2x', function(btn, map) {
+	// 		onClick: mobileWindow();
+	// }).addTo(map);
 
 // https: also suppported.
 // var Esri_WorldStreetMap = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
