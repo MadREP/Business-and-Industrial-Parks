@@ -646,10 +646,15 @@ function Sizing() {
 					$("#sectional").css("top", "125px");
 				};
 
+	$('#close').css({
+		'position': 'fixed',
+		'left': '79%',
+		'top': '56%'
+	});
     $('#right-panel').css({
     	'right': '15%',
     	'top': '55%',
-    	'height': '35%',
+    	'height': '32%',
     	'width': '70%',
     	'border-right': 'solid',
     	'border-width': '3.5px',
@@ -712,7 +717,11 @@ function Sizing() {
 				$("#website").css("top", "115px");
 				$("#sectional").css("top", "150px");
 			};
-
+	$('#close').css({
+		'position': 'absolute',
+		'left': '5px',
+		'top': '5px'
+	});
     $('#right-panel').css({
      	'width': '180px',
      	'top': '15%',
