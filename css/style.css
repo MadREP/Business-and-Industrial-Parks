@@ -451,6 +451,10 @@ body {
   top: 2px;
   left: 2px;
   z-index: 500;
+  width: 22px;
+  height: 22px;
+  text-align: left;
+  line-height: 5px;
 }
 
 #close:hover {
