@@ -648,7 +648,7 @@ function Sizing() {
 
 	$('#close').css({
 		'position': 'fixed',
-		'left': '14%',
+		'left': '77%',
 		'top': '56%'
 	});
     $('#right-panel').css({
