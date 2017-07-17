@@ -277,8 +277,8 @@ body {
 #close {
     position: absolute;
     cursor: pointer;
-    left: 5px;
-    top: 5px;
+    left: 3px;
+    top: 3px;
     border: solid;
     border-width: 0.1px;
     border-color: gray;

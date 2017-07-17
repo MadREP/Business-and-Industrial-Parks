@@ -649,7 +649,7 @@ function Sizing() {
 
 	$('#close').css({
 		'position': 'fixed',
-		'left': '77%',
+		'left': '76%',
 		'top': '56%'
 	});
     $('#right-panel').css({
@@ -720,8 +720,8 @@ function Sizing() {
 			};
 	$('#close').css({
 		'position': 'absolute',
-		'left': '5px',
-		'top': '5px'
+		'left': '3px',
+		'top': '3px'
 	});
     $('#right-panel').css({
      	'width': '250px',
