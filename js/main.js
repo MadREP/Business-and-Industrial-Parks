@@ -119,6 +119,7 @@ function getData(map) {
 	  }); // close to ajax
 };
 
+
 function processData(data){
 
 	  // empty array to hold attributes
@@ -723,14 +724,14 @@ function Sizing() {
 		'top': '5px'
 	});
     $('#right-panel').css({
-     	'width': '180px',
+     	'width': '250px',
      	'top': '15%',
      	'right': '0px',
     	'height': '70%',
     	'border-right': 'none'
     });
     $('#website').css({
-    	'left': '25px'
+    	'left': '60px'
     });
     $('#sectional p').css({
     	'font-size': '15px'
