@@ -546,17 +546,17 @@ function pointToLayer(feature, latlng, attributes, layer){
 			titleLength = parkTitle.length;
 
 			if (parkTitle.length < 43 && parkTitle.length >= 36) {
-				$("#website").css("top", "110px");
-				$("#sectional").css("top", "145px");
+				$("#website").css("top", "90px");
+				$("#sectional").css("top", "125px");
 			} else if (parkTitle.length < 36) {
 				$("#website").css("top", "85px");
 				$("#sectional").css("top", "120px");
 			} else if (parkTitle.length > 55) {
-				$("#website").css("top", "145px");
-				$("#sectional").css("top", "180px");
-			} else {
 				$("#website").css("top", "115px");
 				$("#sectional").css("top", "150px");
+			} else {
+				$("#website").css("top", "100px");
+				$("#sectional").css("top", "135px");
 			};
 
 			if ($(window).width() < 600) {
@@ -706,18 +706,19 @@ function Sizing() {
   } else {
 
   	if (titleLength < 43 && titleLength >= 36) {
-				$("#website").css("top", "110px");
-				$("#sectional").css("top", "145px");
+				$("#website").css("top", "90px");
+				$("#sectional").css("top", "125px");
 			} else if (titleLength < 36) {
 				$("#website").css("top", "85px");
 				$("#sectional").css("top", "120px");
 			} else if (titleLength > 55) {
-				$("#website").css("top", "145px");
-				$("#sectional").css("top", "180px");
-			} else {
 				$("#website").css("top", "115px");
 				$("#sectional").css("top", "150px");
+			} else {
+				$("#website").css("top", "100px");
+				$("#sectional").css("top", "135px");
 			};
+
 	$('#close').css({
 		'position': 'absolute',
 		'left': '3px',
