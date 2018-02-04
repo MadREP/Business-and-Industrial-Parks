@@ -1030,12 +1030,12 @@
       "properties": {
         "Community_Name": "Madison",
         "County": "Dane",
-        "Park_Name": "High Crossing Office Park",
-        "Website_url": "http://madison.artisreit.com/property/high-cross-environ/",
+        "Park_Name": "The Park at High Crossing",
+        "Website_url": "http://iamgtllc.com/commercial/",
         "Total_Acreage": 190,
-        "Available_Acreage": 40,
-        "Purchase_Price": "$10 - $15.50 per SF Triple Net",
-        "Ownership": "Iainvestors",
+        "Available_Acreage": 45,
+        "Purchase_Price": "Negotiable; Lease Rate: $10-$18 NNN",
+        "Ownership": "Investors Associated, LLP",
         "TIF_area": "No",
         "TIF_District": "No",
         "smallest_lot": 1,
@@ -1043,10 +1043,10 @@
         "Zoning": "PUD",
         "Certified_Site": "No",
         "Certified_By": "N/A",
-        "max_contiguous_acreage": 40,
-        "Contact": "Brett Riemen",
-        "Phone": "608-830-6308",
-        "Email": "briemen@vantacp.com"
+        "max_contiguous_acreage": 21.5,
+        "Contact": "Kevin Rouby",
+        "Phone": "608-828-8888",
+        "Email": "krouby@iamgtllc.com"
       },
       "geometry": {
         "type": "Point",
