@@ -1,4 +1,4 @@
-var parks = {
+﻿var parks = {
   "type": "FeatureCollection",
   "features": [
     {
@@ -963,8 +963,8 @@ var parks = {
       "properties": {
         "Community Name": "Madison",
         "County": "Dane",
-        "Park_Name": "High Crossing Office Park",
-        "Website": "No Website",
+        "Park_Name": "The Park at High Crossing",
+        "Website": "http://iamgtllc.com/commercial/",
         "Total Acreage": 190,
         "Available Acreage": 40,
         "Purchase Price ": "$10 to $15.50 per SF Triple Net",
