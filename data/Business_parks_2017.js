@@ -966,7 +966,7 @@
         "Park_Name": "The Park at High Crossing",
         "Website": "http://iamgtllc.com/commercial/",
         "Total Acreage": 190,
-        "Available Acreage": 40,
+        "Available Acreage": 43,
         "Purchase Price ": "$10 to $15.50 per SF Triple Net",
         "Ownership": "Iainvestors",
         "TIF District": "No",
