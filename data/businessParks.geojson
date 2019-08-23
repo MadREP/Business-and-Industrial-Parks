@@ -1032,7 +1032,7 @@
         "County": "Dane",
         "Park_Name": "The Park at High Crossing",
         "Website_url": "http://iamgtllc.com/commercial/",
-        "Total_Acreage": 190,
+        "Total_Acreage": 90,
         "Available_Acreage": 43,
         "Purchase_Price": "Negotiable; Lease Rate: $10-$18 NNN",
         "Ownership": "Investors Associated, LLP",
@@ -1041,12 +1041,12 @@
         "smallest_lot": 1,
         "min_lot_size": 1,
         "Zoning": "PUD",
-        "Certified_Site": "No",
+        "Certified_Site": "Gold Shovel",
         "Certified_By": "N/A",
         "max_contiguous_acreage": 21.5,
-        "Contact": "Kevin Rouby",
+        "Contact": "Ben Hurd",
         "Phone": "608-828-8888",
-        "Email": "krouby@iamgtllc.com"
+        "Email": "bhurd@iamgtllc.com"
       },
       "geometry": {
         "type": "Point",
