@@ -3200,7 +3200,35 @@
           43.528713
         ]
       }
-    },
+    }, {
+"type": "Feature",
+"properties": {
+  "Community Name": "City of Stoughton",
+  "County": "Dane",
+  "Park_Name": "Stoughton Industrial Park",
+  "Website": "https://www.lee-associates.com/properties/?propertyId=400780-sale&address=1680-Williams-Dr&officeId=2428",
+  "Total Acreage": 18.83,
+  "Available Acreage": 6.41,
+  "Purchase Price ": "$40000 per acre",
+  "Ownership": "City of Stoughton",
+  "TIF District": "TIF #6",
+  "Min. Lot Size (Acres)": "1.99 Acres",
+  "Zoning": "Planned Industrial",
+  "Certified Site": "No",
+  "Certified by Who?": "N/A",
+  "Max. Contiguous Acreage": 4.431,
+  "Contact": "Tim Swadley",
+  "Phone": "608-873-6677",
+  "Email": "tswadley@ci.stoughton.wi.us"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [
+    -89.219840,
+    42.934470
+    ]
+    }
+      },
     {
       "type": "Feature",
       "properties": {
