@@ -2451,7 +2451,7 @@
         "TIF District": 4,
         "Min. Lot Size (Acres)": "20000 SF",
         "Zoning": "Business Industrial Park",
-        "Certified Site": "Gold Shovel",
+        "Certified Site": "No",
         "Certified by Who?": "N/A",
         "Max. Contiguous Acreage": 42,
         "Contact": "Pat Cannon",
