@@ -2987,9 +2987,8 @@
           43.264665
         ]
       }
-    }
-  ]
-}
+    },
+{
 "type": "Feature",
 "properties": {
   "Community Name": "City of Stoughton",
@@ -3002,7 +3001,7 @@
   "Ownership": "City of Stoughton",
   "TIF District": "TIF #6",
   "Min. Lot Size (Acres)": "1.99 Acres",
-  "Zoning": "Planned Industrial ",
+  "Zoning": "Planned Industrial",
   "Certified Site": "No",
   "Certified by Who?": "N/A",
   "Max. Contiguous Acreage": 4.431,
@@ -3017,6 +3016,4 @@
     42.934470
   ]
 }
-}
-]
 }
