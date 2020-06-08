@@ -1,4 +1,10 @@
-/* Script by David J. Waro */
+/**
+ * 
+ * Script by David J. Waro
+ * 
+ * Last updated June 8, 2020
+ * 
+ * */
 
 function initialize(){
 	createMap();
