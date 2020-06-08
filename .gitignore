@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+# Prepros local
+prepros.*
+
 # Folder config file
 Desktop.ini
 
