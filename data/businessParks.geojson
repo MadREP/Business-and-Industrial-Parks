@@ -3235,6 +3235,37 @@
     {
       "type": "Feature",
       "properties": {
+        "Community_Name": "Waupun",
+        "County": "Dodge",
+        "Park_Name": "78 Acres in the Waupun Industrial Park",
+        "Website_url": "https://www.cityofwaupun.org/",
+        "Total_Acreage": 77.742 contiguous acres,
+        "Available_Acreage": 77.742 contiguous acres,
+        "Purchase_Price": "$25,000 per acre.",
+        "Ownership": "City of Waupun",
+        "TIF_area": "Site is currently agricultural and zoned M-2 Open Storage/Heavy Manufacturing.",
+        "TIF_District": "Site is currently agricultural and zoned M-2 Open Storage/Heavy Manufacturing.",
+        "smallest_lot": TBA,
+        "min_lot_size": TBA,
+        "Zoning": "Site is currently agricultural and zoned M-2 Open Storage/Heavy Manufacturing.",
+        "Rail_Access": "Yes",
+        "Certified_Site": "Gold Shovel",
+        "Certified_By": "MadREP",
+        "max_contiguous_acreage": 77.742,
+        "Contact": "Kathy Schlieve",
+        "Phone": "920-324-7912",
+        "Email": "Kathy@cityofwaupun.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73192444002798,
+          43.609972664338486
+        ]
+      }
+    },
+    {"type": "Feature",
+      "properties": {
         "Community_Name": "Sauk City",
         "County": "Sauk",
         "Park_Name": "Sauk City Office Park",
