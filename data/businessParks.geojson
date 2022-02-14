@@ -3296,7 +3296,8 @@
         ]
       }
     },
-    {"type": "Feature",
+    {
+      "type": "Feature",
       "properties": {
         "Community_Name": "Sauk City",
         "County": "Sauk",
