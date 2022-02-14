@@ -2659,9 +2659,9 @@
         "Certified_Site": "Gold Shovel",
         "Certified_By": "N/A",
         "max_contiguous_acreage": 42,
-        "Contact": "Pat Cannon",
+        "Contact": "Cameron Clapper, City Manager",
         "Phone": "262-473-0148",
-        "Email": "pcannon@whitewater-wi.gov"
+        "Email": "cclapper@whitewater-wi.gov"
       },
       "geometry": {
         "type": "Point",
@@ -3235,6 +3235,37 @@
     {
       "type": "Feature",
       "properties": {
+        "Community_Name": "Waupun",
+        "County": "Dodge",
+        "Park_Name": "78 Acres in the Waupun Industrial Park",
+        "Website_url": "https://www.cityofwaupun.org/",
+        "Total_Acreage": 77.742,
+        "Available_Acreage": 77.742,
+        "Purchase_Price": "$25,000 per acre.",
+        "Ownership": "City of Waupun",
+        "TIF_area": "Site is currently agricultural and zoned M-2 Open Storage/Heavy Manufacturing.",
+        "TIF_District": "The property is not in an active Tax Increment Financing (TIF) District. However, the city is positioned to create a TIF District to support infrastructure and incentives.",
+        "smallest_lot": 0,
+        "min_lot_size": 0,
+        "Zoning": "Site is currently agricultural and zoned M-2 Open Storage/Heavy Manufacturing.",
+        "Rail_Access": "Yes",
+        "Certified_Site": "Gold Shovel",
+        "Certified_By": "MadREP",
+        "max_contiguous_acreage": 77.742,
+        "Contact": "Kathy Schlieve",
+        "Phone": "920-324-7912",
+        "Email": "Kathy@cityofwaupun.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73192444002798,
+          43.609972664338486
+        ]
+      }
+    },
+    {"type": "Feature",
+      "properties": {
         "Community_Name": "Sauk City",
         "County": "Sauk",
         "Park_Name": "Sauk City Office Park",
@@ -3262,6 +3293,35 @@
           43.264665
         ]
       }
-    }
-  ]
-}
+    },
+{
+        "type": "Feature",
+          "properties": {
+            "Community_Name": "City of Evansville",
+            "County": "Rock",
+            "Park_Name": "Evansville Rail Site",
+            "Website_url": "https://www.ci.evansville.wi.gov/grow_your_business/}",
+            "Total_Acreage": 11.41,
+            "Available_Acreage": 11.41,
+            "Purchase_Price": "$25,000/acre (potential discounts available based on project parameters)",
+            "Ownership": "Municipal",
+            "TIF_area": "Currently not located in a TIF district",
+            "TIF_District": "Currently not located in a TIF district",
+            "smallest_lot": 0.0001,
+            "min_lot_size": "Negotiable",
+            "Zoning": "Light Industrial",
+            "Certified_Site": "Gold Shovel",
+            "Certified_By": "MadREP",
+            "max_contiguous_acreage": 11.41,
+            "Contact": "Jason Sergeant, City Administrator",
+            "Phone": "(608) 882-2285",
+            "Email": "jason.sergeant@ci.evansville.wi.gov"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -89.27622,
+              42.7702
+            ]
+          }
+          }
