@@ -3264,6 +3264,38 @@
         ]
       }
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "Community_Name": "City of Evansville",
+        "County": "Rock",
+        "Park_Name": "Evansville Rail Site",
+        "Website_url": "https://www.ci.evansville.wi.gov/grow_your_business/",
+        "Total_Acreage": 11.41,
+        "Available_Acreage": 11.41,
+        "Purchase_Price": "$25,000 per acre. Price negotiable.",
+        "Ownership": "City of Evansville",
+        "TIF_area": "Currently not located in a TIF district",
+        "TIF_District": "Currently not located in a TIF district,
+        "smallest_lot": 0,
+        "min_lot_size": 0,
+        "Zoning": "Light Industrial",
+        "Rail_Access": "Yes",
+        "Certified_Site": "Gold Shovel",
+        "Certified_By": "MadREP",
+        "max_contiguous_acreage": 11.41,
+        "Contact": "Jason Sergeant, City Administrator",
+        "Phone": "(608) 882-2285",
+        "Email": "jason.sergeant@ci.evansville.wi.gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.27622,
+          42.7702
+        ]
+      }
+    },
     {"type": "Feature",
       "properties": {
         "Community_Name": "Sauk City",
