@@ -3293,35 +3293,6 @@
           43.264665
         ]
       }
-    },
-{
-        "type": "Feature",
-          "properties": {
-            "Community_Name": "City of Evansville",
-            "County": "Rock",
-            "Park_Name": "Evansville Rail Site",
-            "Website_url": "https://www.ci.evansville.wi.gov/grow_your_business/}",
-            "Total_Acreage": 11.41,
-            "Available_Acreage": 11.41,
-            "Purchase_Price": "$25,000/acre (potential discounts available based on project parameters)",
-            "Ownership": "Municipal",
-            "TIF_area": "Currently not located in a TIF district",
-            "TIF_District": "Currently not located in a TIF district",
-            "smallest_lot": 0.0001,
-            "min_lot_size": "Negotiable",
-            "Zoning": "Light Industrial",
-            "Certified_Site": "Gold Shovel",
-            "Certified_By": "MadREP",
-            "max_contiguous_acreage": 11.41,
-            "Contact": "Jason Sergeant, City Administrator",
-            "Phone": "(608) 882-2285",
-            "Email": "jason.sergeant@ci.evansville.wi.gov"
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              -89.27622,
-              42.7702
-            ]
-          }
-          }
+    }
+  ]
+}
