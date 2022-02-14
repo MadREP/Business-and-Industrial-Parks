@@ -3294,7 +3294,8 @@
         ]
       }
     },
-        {"type": "Feature",
+{
+        "type": "Feature",
           "properties": {
             "Community_Name": "City of Evansville",
             "County": "Rock",
@@ -3322,8 +3323,5 @@
               -89.27622,
               42.7702
             ]
-          ]
-        }
-      }
-    ]
-  }
+          }
+          }
