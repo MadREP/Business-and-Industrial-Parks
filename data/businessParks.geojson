@@ -3299,6 +3299,38 @@
     {
       "type": "Feature",
       "properties": {
+        "Community_Name": "City of Horicon",
+        "County": "Dodge",
+        "Park_Name": "Marshland Crossing",
+        "Website_url": "https://cityhoriconwi.us/188/Business-Park",
+        "Total_Acreage": 156,
+        "Available_Acreage": 156,
+        "Purchase_Price": "$20,000 an acre, but highly negotiable",
+        "Ownership": "City of Horicon",
+        "TIF_area": "TID #5",
+        "TIF_District": "TID #5",
+        "smallest_lot": 1,
+        "min_lot_size": 1,
+        "Zoning": "Heavy and Light Industrial (split zoned)",
+        "Rail_Access": "Yes",
+        "Certified_Site": "Gold Shovel",
+        "Certified_By": "MadREP",
+        "max_contiguous_acreage": 66,
+        "Contact": "Kristen Jacobson, , City of Horicon",
+        "Phone": "920-485-3500",
+        "Email": "kjacobson@cityhoriconwi.us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66667,
+          43.4464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Community_Name": "Sauk City",
         "County": "Sauk",
         "Park_Name": "Sauk City Office Park",
